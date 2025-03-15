@@ -1,47 +1,45 @@
-Here's an updated version of your README with improved SEO optimization, better clarity, and enhanced keyword targeting to drive traffic to your GitHub project.
+# 🚀 YC Company Scraper Pipeline + YC ATLAS Search  
+
+## 🔎 Explore YC Startups Instantly: [YC ATLAS](https://yc-atlas.lovable.app/)  
+
+Use **[YC ATLAS](https://yc-atlas.lovable.app/)** to instantly **search, filter, and explore** Y Combinator startups with AI-powered insights. This tool makes finding relevant YC companies faster and more efficient.  
 
 ---
 
-# YC Company Scraper Pipeline 🚀
+## 📌 Overview  
 
-## Overview
-YC Company Scraper is a powerful, automated pipeline designed to **scrape, crawl, summarize, and embed Y Combinator (YC) startup data**. This tool is essential for researchers, investors, and AI developers looking to analyze YC startups efficiently.
+YC Company Scraper is a complete pipeline for **scraping, crawling, summarizing, and embedding** Y Combinator (YC) startup data. Whether you're a **founder, investor, researcher, or AI developer**, this tool provides structured YC data at scale.  
 
-### Key Features:
-✅ **Comprehensive YC Data Extraction** – Scrapes YC startup details directly from the official website.  
-✅ **Advanced Web Crawling** – Extracts text from company websites using `crawl4ai`.  
-✅ **AI-Powered Summaries** – Uses OpenAI’s GPT models to generate structured insights.  
-✅ **Semantic Search & Analysis** – Converts data into embeddings for deep analysis.  
-✅ **Flexible Output Formats** – Save results in **JSON** and **CSV** for easy use.  
-✅ **Optimized for Performance** – Parallel processing ensures efficiency at scale.  
-
-This project is ideal for **data scientists, AI engineers, startup analysts, and investors** who want structured YC company data in one place.
+### 🔥 Why Use This?  
+✅ **AI-Powered YC Search** – Use [YC ATLAS](https://yc-atlas.lovable.app/) for instant startup discovery.  
+✅ **Comprehensive Scraper** – Extracts YC startup details from the official site.  
+✅ **Web Crawler for Deep Insights** – Uses `crawl4ai` to fetch company website content.  
+✅ **AI Summaries** – Get **instant, structured insights** for each startup.  
+✅ **Semantic Search Ready** – Embed data for advanced search and analysis.  
+✅ **Export in JSON & CSV** – Flexible formats for research and data science.  
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide  
 
-### 📌 Installation
+### 📌 Installation  
 
-#### Prerequisites:
-- Python **3.8+**
-- `pip` installed
-- OpenAI API key (store in `.env` as `OPENAI_API_KEY`)
+#### Prerequisites:  
+- Python **3.8+**  
+- `pip` installed  
+- OpenAI API key (store in `.env` as `OPENAI_API_KEY`)  
 
-#### Install Dependencies:
+#### Install Dependencies:  
 ```bash
 pip install -r requirements.txt
 ```
 
-### ▶️ Running the Pipeline
-
-To scrape and process **all YC startup data**, run:
-
+### ▶️ Running the Pipeline  
 ```bash
 python main.py --batch W25 --output data
 ```
 
-### 🔧 Command-Line Options
+### 🔧 Command-Line Options  
 
 | Argument            | Description |
 |---------------------|-------------|
@@ -54,20 +52,20 @@ python main.py --batch W25 --output data
 | `--skip-embedding` | Skip embedding generation. |
 | `--output-format`  | Choose output format (`json` or `csv`). |
 
-Example: Run without crawling and embedding:
+Example: Run without crawling and embedding:  
 ```bash
 python main.py --batch W25 --skip-crawl --skip-embedding
 ```
 
 ---
 
-## 🔍 How the Pipeline Works
+## 🔍 How the Pipeline Works  
 
 ### 1️⃣ Scraping YC Companies  
 Extracts company names, descriptions, and links from YC’s website.  
 
 ### 2️⃣ Crawling Startup Websites  
-Uses `crawl4ai` to extract textual content for deeper insights.  
+Uses `crawl4ai` to extract text content for deeper insights.  
 
 ### 3️⃣ AI-Powered Summaries  
 Generates concise summaries using OpenAI’s GPT models.  
@@ -76,11 +74,11 @@ Generates concise summaries using OpenAI’s GPT models.
 Creates vector embeddings for **semantic search** and advanced analytics.  
 
 ### 5️⃣ Saving the Data  
-Data is stored as structured **JSON files** and **CSV exports**.
+Data is stored as structured **JSON files** and **CSV exports**.  
 
 ---
 
-## 📂 Output Structure
+## 📂 Output Structure  
 
 ```
 /data
@@ -92,24 +90,9 @@ Data is stored as structured **JSON files** and **CSV exports**.
 
 ---
 
-## 🌎 SEO Optimized Keywords for Discoverability
+## 🔑 Environment Variables  
 
-- **Y Combinator startup scraper**
-- **YC startup data crawler**
-- **AI-powered YC company analysis**
-- **YC startup dataset**
-- **YC API alternative**
-- **YC startup insights**
-- **Y Combinator funding data**
-- **YC company web scraper**
-- **YC dataset for investors**
-- **AI-generated startup summaries**
-
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file with your OpenAI API key:
+Create a `.env` file with your OpenAI API key:  
 
 ```
 OPENAI_API_KEY=your_api_key_here
@@ -117,35 +100,45 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-## 📦 Dependencies
+## 📦 Dependencies  
 
-- `pandas`
-- `asyncio`
-- `argparse`
-- `crawl4ai`
-- `openai`
-- `dotenv`
-- `tqdm`
-
----
-
-## 🛠 License & Contribution
-
-This project is licensed under the **MIT License**. Contributions are welcome! Feel free to **open an issue** or **submit a pull request** on GitHub.
-
-📩 **Have questions?** Reach out via GitHub Issues! 🚀
+- `pandas`  
+- `asyncio`  
+- `argparse`  
+- `crawl4ai`  
+- `openai`  
+- `dotenv`  
+- `tqdm`  
 
 ---
 
-### 🚀 Why Use This YC Startup Scraper?
+## 🌎 Try **YC ATLAS** for Instant YC Startup Search  
 
-✅ **All-in-One Solution** – Scrape, crawl, summarize, and analyze YC companies in one tool.  
-✅ **AI-Powered Insights** – Get instant, structured summaries powered by GPT.  
+Looking for a **faster way to find YC startups?** Use [YC ATLAS](https://yc-atlas.lovable.app/) to:  
+
+🔍 **Search & Filter** startups by batch, category, and keywords.  
+🤖 **AI-Generated Summaries** for quick insights.  
+📊 **Semantic Search** using embeddings for deep analysis.  
+
+🚀 Try it now: **[YC ATLAS](https://yc-atlas.lovable.app/)**  
+
+---
+
+## 🛠 License & Contribution  
+
+This project is licensed under the **MIT License**. Contributions are welcome! Feel free to **open an issue** or **submit a pull request** on GitHub.  
+
+📩 **Have questions?** Reach out via GitHub Issues! 🚀  
+
+🔗 **[Star This Repo on GitHub!](https://github.com/your-repo-link)** 🌟  
+
+---
+
+### 🚀 Why Use This YC Startup Scraper?  
+
+✅ **AI-Powered Search via YC ATLAS** – Find startups instantly.  
+✅ **All-in-One Data Pipeline** – Scrape, crawl, summarize, and analyze YC companies.  
+✅ **AI-Powered Insights** – Get structured summaries powered by GPT.  
 ✅ **Semantic Search Ready** – Transform text into embeddings for intelligent retrieval.  
-✅ **SEO-Optimized** – Discover the best YC startups faster with structured data.  
+✅ **SEO-Optimized** – Discover YC startups faster with structured data.  
 
-🔗 **[Star This Repo on GitHub!](https://github.com/your-repo-link)** 🌟
-
----
-
-This version is **SEO-optimized**, clear, and structured for easy understanding. It should help **increase visibility on GitHub** and attract **more visitors from Google searches**. 🚀 Let me know if you need further refinements!
