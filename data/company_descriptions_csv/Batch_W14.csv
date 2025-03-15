@@ -1,0 +1,876 @@
+Founder_1_Description,Founder_1_LinkedIn,Founder_1_Name,Founder_2_Description,Founder_2_LinkedIn,Founder_2_Name,Founder_3_Description,Founder_3_LinkedIn,Founder_3_Name,Founder_4_Description,Founder_4_LinkedIn,Founder_4_Name,Founder_5_Description,Founder_5_LinkedIn,Founder_5_Name,Founder_6_Description,Founder_6_LinkedIn,Founder_6_Name,Founder_7_Description,Founder_7_LinkedIn,Founder_7_Name,activity_status,batch,company_linkedin,company_twitter,description,founded_date,founders,generated_description,group_partner,group_partner_yc,headline,links,location,logo,logo_path,name,social_links,status,tags,team_size,website
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"42 is an end-to-end analytics stack for DTC and wholesale brands.
+
+Our platform shows you the right insights and data, anytime you need them:
+- Hundreds of built-in metrics across Stores, eComm, Wholesale, or any other channel
+- See all your sales, stock and customer in one report, with images
+- Accurate cost, markdown and promo reporting
+- Get answers in real-time, during your buyer / supplier meetings
+- Get your store managers to use data, we've seen 10% margin increases from this
+- Actually know how much stock you have.
+
+We're more than just a dashboard...
+- No infrastructure needed. We do the hosting and maintenance.
+- No integrations (for you). We do the heavy-lifting and get your data into 42
+- For brands, we work with all the major retailers (via xlsx, portals or EDI)
+- For retailers, we can be your vendor portal
+- We integrate with any system
+- We work with you to tailor the analytics according to your products and naming
+
+Our customers include AllSaints, Frasers Group, Incipio Group, Bandier, Deconic... and way more.
+
+If you want to learn more about what we do, head over to our website: 42technologies.com
+... or go to any AllSaints store and ask a store manager :)",2014.0,"[{'name': 'Nick Porter, Founder/CTO', 'description': 'https://github.com/surjikal', 'linkedin': 'https://www.linkedin.com/in/nicolasporter'}]","### Meet 42 Technologies
+
+42 Technologies is a smart choice for retailers and brands striving to harness the power of data. Founded in 2014 and part of Y Combinator’s W14 batch, this San Francisco-based company offers an *end-to-end analytics stack* tailor-made for direct-to-consumer (DTC) and wholesale brands.
+
+#### What They Do: 
+The cornerstone of 42's offering is its robust analytics platform designed for *omnichannel* performance. With a variety of built-in metrics covering diverse channels like retail stores, eCommerce, and wholesale, users can access comprehensive reports that include sales, stock, and customer data—all in one place and in real time. 
+
+Here’s a snapshot of what 42 delivers:
+- **Real-Time Insights:** Get the data you need when you need it, especially useful during buyer/supplier meetings.
+- **Unified Reporting:** No more juggling multiple reports—everything you need is visually represented and easily accessible.
+- **Margin Results:** Teams that engage with data through 42 have seen an increase in profit margins of up to 10%.
+- **Stock Management:** Users can effortlessly track their inventory levels.
+
+#### Going Beyond Dashboards:
+42 isn’t just another analytics dashboard. Here’s what sets it apart:
+- **No Infrastructure Woes:** Clients don’t have to worry about hosting or maintenance; 42 takes care of that.
+- **Data Integration Made Easy:** Whether brands work with major retailers, EDI, or various portals, 42 handles the data connections smoothly.
+- **Tailored Analytics:** Their team collaborates with clients to create custom analytics that align with specific business needs.
+
+#### Who Uses 42?
+Their clientele features notable names like AllSaints, Frasers Group, Incipio Group, and Bandier, showcasing their capability in serving diverse retail narratives.
+
+#### Why Choose 42?
+- **User-Centric Design:** The platform is built for retail experts, and its intuitive interface allows for quick onboarding and a seamless experience.
+- **Deep Data Dive:** Customizable dashboards empower users to dig into data insights without needing IT support or manual data management.
+- **Holistic Understanding:** 42 provides clarity not just in sales, but across multiple performance factors, enabling smarter business decisions.
+
+With its commitment to delivering accurate, real-time retail reporting in a user-friendly format, 42 is redefining how businesses interact with their data. If you want to explore what they can do for you, check them out at [42technologies.com](https://42technologies.com) or visit an AllSaints store and chat with the management. 
+
+Welcome to the future of retail analytics—42 Technologies.",,,Analytics stack for omnichannel retailers and brands,https://www.ycombinator.com/companies/42,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/4ee9c1e11181a1aec4439191d05e60192951dc69.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=911bb9bbf6d096e799c35728ce0590186d61c51b53739965d4d64f3c27510cd3,data/logos\42_logo.png,42,['https://www.crunchbase.com/organization/42'],True,industry:saas; industry:analytics; industry:retail; location:san-francisco-bay-area,,https://42technologies.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"We help get compensation for air passengers that have experienced delayed, cancelled, and overbooked flights. We make the claim process much faster, easier and less painfull because the airlines won't.
+
+We love new challenges! As a start-up, weâve been through it all and thanks to this our AirHelpers have developed the skills to deal with it all, and more, all while remaining passionate about what we do â helping ordinary people â as flight delays can happen to anyone.
+
+What helps us continuously develop, is our combination of talent, passion and persistance.
+
+What makes us different?
+Every single one of our employees can make an impact on the future of AirHelp â come up with an innovative idea â and weâll help you implement it at AirHelp. This is an experience you can gain in very few places! 
+If youâre looking to develop new skills, make an impact on not only global business, but ordinary, everyday travellers, and take risks developing and implementing new projects â what are you waiting for? Come join us today!
+
+With a variety of departments to choose from: tech, product, legal, finance, human resources, customer service (and the list goes on!) - you donât have to narrow your horizons, just take your pick. Pick what youâve got a knack for, and most importantly, what you enjoy!
+
+AirHelp. We're here to help!",2013.0,"[{'name': 'Henrik Zillmer, Founder', 'description': 'Henrik Zillmer is a serial entrepreneur, former Rocket Internet executive and founder of AirHelp and ROOM to mention a few. Henrik has founded more than ten startupsâ\x80\x99 within insurance, travel, software and e-commerce. At Rocket Internet Henrik launched one of Asiaâ\x80\x99s largest e-commerce businesses Zalora in eight different countries and took the company from 5 to 2,000 employees in less than one year. Henrik is currently chairman of AirHelp and continues to be active in Y Combinator as an advisor.', 'linkedin': 'https://www.linkedin.com/in/zillmer'}, {'name': 'Nicolas Michaelsen', 'description': None, 'linkedin': 'https://www.linkedin.com/in/nicolasbranasmichaelsen/'}, {'name': 'Greg Roodt', 'description': None, 'linkedin': 'https://www.linkedin.com/in/groodt/'}]","AirHelp, founded in 2013 and a proud member of the Y Combinator W14 batch, has emerged as the go-to solution for air passengers seeking compensation for delayed, canceled, or overbooked flights. What sets AirHelp apart? Simple: they make the compensation process faster, easier, and less painful for travelers—something most airlines often neglect.
+
+Their mission is straightforward: to help ordinary people reclaim what they deserve when things go wrong with their flights. With flight delays an everyday reality for many, AirHelp thrives on tackling these challenges head-on, utilizing a potent mix of talent, passion, and persistence. In fact, every AirHelper is empowered to propose and implement innovative ideas that could shape the company’s future—a unique opportunity in the startup realm.
+
+With a team of around 350 employees and expertise spanning various departments like tech, product, legal, and customer service, AirHelp is not just another company; it’s a learning ground. Whether your skills lie in coding or customer outreach, there’s a niche for you here.
+
+Now, let’s talk numbers. AirHelp has facilitated compensation for over 2.7 million passengers, checked more than 180 million flights, and accumulated a stellar 167,000+ five-star reviews from satisfied customers. They operate under regulations such as the EU Regulation EC 261 and the Montreal Convention, ensuring travelers know their rights.
+
+The process is simple: passengers can claim up to $650 without any upfront fees—AirHelp only takes a percentage from the compensation when successful. This no-win, no-fee model means there’s essentially nothing to lose for travelers.
+
+If you’re looking for a place where you can make an impact on a global scale while helping everyday people navigate the complexities of air travel, look no further. AirHelp is here to revolutionize air passenger rights, one claim at a time. Interested? Check them out at [AirHelp.com](http://www.airhelp.com) and seize that opportunity to change the travel experience for the better.",,,"AirHelp helps air passengers get compensation for delayed, cancelledâ¦",https://www.ycombinator.com/companies/airhelp,,https://bookface-images.s3.us-west-2.amazonaws.com/logos/346cd3e87d37882a75b5434fce4ff980ba4408b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c940a16079104dcb4a3117deb123e1a14cbe7e76a7efc45fe04a0b24775c4fe9,data/logos\AirHelp_logo.png,AirHelp,"['https://www.linkedin.com/company/airhelp/', 'https://twitter.com/theairhelper', 'https://facebook.com/airhelp', 'https://www.crunchbase.com/organization/airhelp']",True,,350.0,http://www.airhelp.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Our mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs.
+
+Algolia is the leading Search & Discovery API for websites and mobile apps. We help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time. More than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month.
+
+Founded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures. The team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com.
+
+---
+We’re looking for talented, passionate people to build the world’s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity. 
+
+We're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background",2012.0,"[{'name': 'Nicolas Dessaigne, Founder/Board Member', 'description': 'Nicolas is currently a general partner at YC. He is also the co-founder of Algolia (YC W14), a growth stage Search API used by millions of developers. He led the company as CEO up to 350 people before hiring a successor in 2020. Originally from France, he currently lives in El Cerrito, CA with his wife and 3 kids. He has a PhD in Computer Science from the University of Nantes.', 'linkedin': 'https://www.linkedin.com/in/nicolasdessaigne/'}, {'name': 'Julien Lemoine, Founder/CTO', 'description': ""Julien is a search veteran who’s been working in the search landscape for over 10 years, with work experience in Thales and Exalead. He participated in the design of three different search engines prior to co-founding Algolia with Nicolas and is the author of the different algorithms responsible for Algolia's super fast performance. Julien is also passionate about imparting knowledge and spent some time teaching at his Alma Mater, EPITA. He holds an engineering degree from the same institution."", 'linkedin': 'https://linkedin.com/in/julienlemoine'}]","**Algolia Overview**
+
+Founded in 2012 and hailing from Y Combinator's W14 batch, Algolia has carved its niche as the leading Search & Discovery API for websites and mobile applications. The company’s mission is straightforward yet ambitious: to make every search interaction meaningful and rewarding through developer-friendly enterprise-grade APIs.
+
+**Key Offerings**
+
+Algolia provides a host of powerful, relevant, and scalable search functionalities that cater to sectors like e-commerce, media, and SaaS industries. Their hosted platform simplifies the complexity of search implementation, allowing teams to develop faster and maintain high-speed, relevant digital experiences. In fact, over 9,000 companies—including giants like Under Armour, Twitch, Medium, and Stripe—trust Algolia, processing more than 50 billion search queries each month.
+
+**Team and Culture**
+
+Headquartered in San Francisco, Algolia boasts a diverse team of around 810 employees across multiple global offices, including Paris, London, New York, and Atlanta. Emphasizing autonomy and inclusivity, Algolia seeks passionate, talented individuals who thrive in diverse environments and share a commitment to social responsibility.
+
+**Funding and Growth**
+
+Algolia has raised $184 million in funding from prominent investors like Accel Partners, Alven Capital, Point Nine Capital, and Storm Ventures. This financial backing underpins its rapid growth and development within the tech industry.
+
+**Technological Edge**
+
+What sets Algolia apart is its AI-driven search solutions which are easy to integrate and quick to implement. They cater to a wide range of development languages and platforms, empowering developers to fine-tune search capabilities and deliver seamless user experiences.
+
+**Recognition and Future**
+
+Algolia is recognized in the 2024 Gartner® Magic Quadrant™ for Search and Product Discovery, indicating its strong market positioning and vision. Their commitment to providing top-tier search technology continues to attract enterprises and startups alike, offering scalable solutions that grow alongside customer needs.
+
+For anyone looking to elevate their search and discovery capabilities, Algolia stands out as a robust, partner-ready option that combines powerful technology with a user-centric approach. 
+
+To explore more, visit [www.algolia.com](http://www.algolia.com).",,,A developer-friendly and enterprise-grade search API.,https://www.ycombinator.com/companies/algolia,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/f85ee480d2e156617c07fdb65bfb238a1feb0d0d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1f37464199c7d93980cc015d4940039924e32c9d9e292cf3677210ca815b24a5,data/logos\Algolia_logo.png,Algolia,"['https://www.linkedin.com/company/algolia/', 'https://twitter.com/algolia', 'https://www.facebook.com/algolia', 'https://www.crunchbase.com/organization/algolia', 'https://github.com/algolia']",True,industry:developer-tools; industry:saas; industry:b2b; location:san-francisco-bay-area,810.0,http://www.algolia.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"We motivate employees to reach their potential, empower managers to be great coaches, and ultimately help sales teams hit number with great culture. We do this through an extensive suite of coaching and gamification tools, all powered by sales activity data.",2014.0,[],"**Ambition: Empowering Sales Teams with Coaching and Gamification**
+
+Founded in 2014 and recognized as part of Y Combinator's Batch W14, Ambition is a dynamic SaaS company headquartered in Chattanooga, TN. With a team of 55 dedicated employees, the company's mission is clear: to motivate employees, empower managers, and help sales teams not just meet but exceed their targets—all while fostering a strong workplace culture.
+
+At the core of Ambition's offering is its robust suite of coaching and gamification tools, which leverage sales activity data to deliver actionable insights. This approach is not just about metrics; it's about cultivating an environment where sales reps can thrive under great coaching and accountability.
+
+### Key Features:
+
+1. **Coach Your Reps:** Ambition helps managers implement customizable coaching programs that are data-driven, ensuring consistency and effectiveness in coaching cadences.
+   
+2. **Track Performance Improvements:** The platform allows sales managers to visualize performance trends, offering context to the metrics that truly matter for both individual reps and the broader team.
+
+3. **Achieve Results:** By encouraging behaviors that drive outcomes, Ambition empowers teams to set and reach individual and team goals effectively.
+
+4. **Sales Performance Platform:** This platform merges Human Intelligence from managers with Ambition AI, driving enhanced revenue outcomes through smart insights.
+
+### Market Solutions
+
+Ambition caters to various industries, helping sales development teams to boost productivity and enrich the sales coaching culture, while also supporting roles in customer success, account management, and enablement. The focus here is on not just driving numbers but also enhancing team morale and workplace engagement.
+
+### Why Choose Ambition?
+
+Companies like Cisco, Verizon, and the Atlanta Braves trust Ambition to transform their sales approaches. Its innovative blend of human interaction and AI-powered insights creates a sales coaching experience that's not only impactful but tailored to each team's unique challenges.
+
+### Looking Forward
+
+The future of sales performance at Ambition combines high-impact coaching with cutting-edge technology. As the landscape shifts, Ambition remains dedicated to helping sales teams elevate their performance, drive results, and build a vibrant culture by celebrating both individual and team successes.
+
+For more information, you can visit their website [here](https://ambition.com). 
+
+--- 
+
+In essence, Ambition is not just another sales tool; it’s a comprehensive platform designed to uplift sales teams through encouragement, innovation, and insight—because at the end of the day, success in sales hinges on strong leadership and motivated reps. With Ambition, the focus is clear: be greater.",,,Coaching and gamification software for sales teams.,https://www.ycombinator.com/companies/ambition,"Chattanooga, TN",https://bookface-images.s3.us-west-2.amazonaws.com/logos/ccd7ac8fa8c72f0d86f163de99c821eb1c8d365e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T190956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=79b1c18a45bc7ebca1010e204152fe7af4a68a0b9bfe3dd7efefa692f80a4421,data/logos\Ambition_logo.png,Ambition,"['https://www.linkedin.com/company/ambition-llc/', 'https://twitter.com/ambitionsales?lang=en', 'https://www.facebook.com/AmbitionSales/', 'https://www.crunchbase.com/organization/ambition-inc', 'https://github.com/ambitioninc']",True,industry:saas; industry:b2b,55.0,https://ambition.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"AptDeco is a peer-to-peer managed marketplace dedicated for buying and selling quality used furniture. We offer a complete end-to-end process to bring back the joy of discovering amazing furniture finds for the home again. Our customers benefit from a trusted and verified community of buyers and sellers, pre-arranged pick up and delivery and a secure electronic payment process.",2014.0,[],"AptDeco is revolutionizing how we buy and sell used furniture. Founded in 2014 and part of Y Combinator's W14 batch, AptDeco is a peer-to-peer marketplace that's based in New York, focusing on the growing desire for quality, pre-loved furniture. Their mission is simple: to make the process of buying and selling used furniture easy and enjoyable.
+
+At its core, AptDeco provides a full-service platform that connects buyers and sellers, ensuring a secure, trusted community. Users can browse a vast catalog of furniture ranging from sofas to rugs, and everything in between. Notably, they manage the logistics with pre-arranged pick-up and delivery services, which takes a lot of the hassle out of moving items. And let's not forget the importance of secure electronics—AptDeco ensures that transactions are safe and reliable.
+
+Sustainability is a vital part of AptDeco’s ethos. The company recognizes the environmental impact of furniture waste, with an alarming 12 million tons of used furniture ending up in landfills each year. AptDeco works to combat this by extending the lifecycle of furniture, making it circular instead of linear. This not only prevents waste but also contributes to a greener planet; they've proudly reported significant CO2 offsets, cars removed from the road, and trees planted through their initiatives.
+
+AptDeco has a strong partnerships approach, collaborating with major brands like West Elm, IKEA, and CB2, alongside other respected names in the industry, offering customers amazing finds. If you want to dive into a treasure hunt of furniture, you can navigate through various categories and brands directly on their website: [AptDeco](https://www.aptdeco.com/).
+
+In summary, AptDeco isn’t just a marketplace; it’s a thriving community committed to sustainability and quality living. Whether you're looking to refresh your home or clear out some space with pre-owned treasures, AptDeco is designed to make that experience seamless and enjoyable. Plus, by choosing used furniture, you're not just saving money; you’re also doing your part for the environment. It's a win-win.",,,AptDeco is the easiest way to buy and sell used furniture,https://www.ycombinator.com/companies/aptdeco,New York,https://bookface-images.s3.us-west-2.amazonaws.com/logos/7f8bd44435928d5290427ec2737c7a7040872ea9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191002Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5ee187fbd35624d63b8d8caed70b0226ded14983287bcf8268d6b2ebbca34382,data/logos\AptDeco_logo.png,AptDeco,"['https://www.linkedin.com/company/aptdeco', 'https://twitter.com/aptdeco', 'https://www.facebook.com/AptDeco', 'https://www.crunchbase.com/organization/aptdeco', 'https://github.com/aptdeco']",True,industry:marketplace; industry:logistics; industry:furniture; location:new-york,,https://www.aptdeco.com/
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Axoni is a New York-based technology firm that builds multi-party workflows and infrastructure for some of the largest financial institutions in the world. Founded in 2013, the company offers core data infrastructure, application development, and automation tools.",2013.0,"[{'name': 'Greg Schvey, Founder/CEO', 'description': 'Greg is a repeat entrepreneur and drives Axoni’s strategic execution. He previously co-founded TradeBlock and worked as a fixed income analyst at Citigroup. Greg holds a bachelor’s degree from Cornell University where he studied finance.', 'linkedin': None}, {'name': 'Jeffrey Schvey, Founder/CTO', 'description': 'Jeff oversees all technology at Axoni. He previously co-founded TradeBlock and worked as the Engineering Lead in Raytheon’s strategy group. Jeff holds a master’s degree in engineering from Cornell University.', 'linkedin': 'https://www.linkedin.com/in/jeffschvey/'}]","**Axoni: Pioneering Capital Markets Technology**
+
+Founded in 2013 and rooted in New York, Axoni is carving out a niche in the capital markets technology landscape. With a team of 155 dedicated professionals, they collaborate closely with some of the world's largest financial institutions, delivering robust solutions that streamline complex multi-party workflows.
+
+**Mission and Focus**
+At its core, Axoni is on a mission to create the next generation of capital markets technology. Their flagship platform, HYDRA, enables real-time and automated data replication between institutions, significantly minimizing the costs and risks associated with data management. This means fewer reconciliations and a smoother workflow for financial operations—a win-win for all parties involved.
+
+**Recognition and Credentials**
+Having initially emerged from the Y Combinator Batch W14, Axoni's innovative approach hasn’t gone unnoticed. They've been recognized multiple times, including accolades such as ""OpRisk Innovation of the Year"" and being named one of Forbes' Fintech 50. Their commitment to security and compliance is highlighted by obtaining SOC 2 Type 2 certification, reinforcing trust in their services.
+
+**Team and Culture**
+The Axoni team is a fusion of engineering talent and financial expertise, deeply invested in pushing the boundaries of what's possible in fintech. They prioritize values like enthusiasm, integrity, and performance, ensuring that they not only deliver on their promises to clients but also foster a supportive environment for their colleagues.
+
+**Join Them in Their Journey**
+If you’re curious about pioneering technology that’s reshaping capital markets, check out their offerings [here](https://axoni.com) or explore opportunities to join their dynamic team on their [careers page](https://axoni.com/careers).
+
+In short, Axoni is not just building technology; they're building the future of capital markets—efficient, reliable, and ready for whatever comes next.",,,Axoni is building the next generation of capital markets technology,https://www.ycombinator.com/companies/axoni,New York,https://bookface-images.s3.us-west-2.amazonaws.com/logos/13c20677e1514f99867224c5a6f855e36c1a85eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191015Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8acf499e348f8fcc4f34cb52d884cf573d97796dd999191c04ab180f2e0929a7,data/logos\Axoni_logo.png,Axoni,"['https://www.linkedin.com/company/axoni/', 'https://twitter.com/axoni', 'https://www.crunchbase.com/organization/axoni', 'https://github.com/Axoni']",True,industry:fintech; industry:saas; location:new-york,155.0,https://axoni.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Founded in 2014, Bellabeat is a data-centered wellness femtech company behind some of the most fashionably designed tech-powered wellness products and one of the fastest-growing wellness subscription services for women. Throughout the years, Bellabeat built the go-to wellness brand with a compelling ecosystem of solutions and services focused on women’s health. The success of the Leaf and Ivy wearables enabled the brand to expand to international markets and kickstart industry discussions on the importance of innovating in the design and development of tech products. Today, Bellabeat is leading the market shift with hyper-personalized holistic wellness offerings aligned with a women’s menstrual cycle.",2014.0,"[{'name': 'Urska Srsen, Founder/CCO', 'description': 'Urska Srsen is the co\xadfounder and CCO of Bellabeat Inc. Urska is the detail\xad obsessed execution force behind Bellabeat’s brand and products.\nIn 2016 Urska was chosen by Forbes as the ambassador of the Technology field for their first European 30 under 30 list. She was nominated as best female entrepreneur in Croatia in 2016 by Veuve Clicquot and has also received the Jabolko Navdiha (Apple of Inspiration) award from the President of the Republic of Slovenia.', 'linkedin': None}, {'name': 'Sandro Mur, Founder', 'description': None, 'linkedin': None}]","**Bellabeat: Empowering Women's Wellness Through Technology**
+
+Founded in 2014, Bellabeat is a standout player in the femtech space, positioning itself as a tech-powered champion of women's wellness. With a mission to provide data-centered health solutions tailored specifically for women, Bellabeat has made significant strides over the years, particularly with its stylish wearables—the Leaf and Ivy. These products not only look good but actively engage users in tracking their health metrics in a fashionable way.
+
+The company initially gained recognition as part of Y Combinator's W14 cohort, and it has blossomed into a recognized brand with a strong ecosystem of wellness solutions. Today, Bellabeat leads the market with offerings focused on holistic, personalized wellness strategies that align with women's menstrual cycles—an innovative approach that highlights the importance of understanding female biology in health technology.
+
+Operating out of San Francisco, Bellabeat boasts a dedicated team of 134 employees and is under the guidance of Michael Seibel as their Group Partner. Their scope of influence spans across several sectors, making them relevant in fitness, health & wellness, and femtech.
+
+As a brand, Bellabeat is not only about creating products; it's about starting conversations and driving awareness around the necessity of thoughtful design and development in tech for women. With its rapid growth and expansion into international markets, Bellabeat is paving the way for a future where women's health is prioritized in the tech industry.
+
+For more information on their offerings, you can visit their website at [bellabeat.com](http://bellabeat.com).",Michael Seibel,https://www.ycombinator.com/people/michael-seibel,Tech-powered women's wellness.,https://www.ycombinator.com/companies/bellabeat,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/3c8671c43f9b80e10520e4b9f35d55f6e998b16e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191019Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a91d7494d6c7c7e0b06bbd4cc3b7525bc5e990e60a1c501e2350b57720e2c04b,data/logos\Bellabeat_logo.png,Bellabeat,"['https://www.linkedin.com/company/bellabeatinc', 'https://twitter.com/GetBellaBeat', 'https://web.facebook.com/bellabeat/', 'https://www.crunchbase.com/organization/bellabeat']",True,industry:fitness; industry:health-&-wellness; industry:femtech; location:san-francisco-bay-area,134.0,http://bellabeat.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7. Students get an affordable and convenient way to practice their English and gain confidence. Tutors get to make money helping people from around the world practice English.,,[],"**Cambly: English Learning Made Easy**
+
+Cambly is on a straightforward mission: to provide on-demand access to English tutors via video chat, anytime, anywhere. Founded in 2014 and part of the Y Combinator Batch W14, Cambly’s app allows English learners to gain instant, 24/7 access to friendly native speakers. This model not only helps students improve their English skills and build confidence but also offers a flexible income opportunity for tutors worldwide.
+
+### About Cambly
+- **Location:** San Francisco
+- **Team Size:** Around 200 employees
+- **Website:** [cambly.com](http://www.cambly.com)
+- **Founders:** The company doesn't detail founders but has notable support from Michael Seibel as their Group Partner.
+
+### What Does Cambly Offer?
+Cambly caters to a diverse audience, addressing the unique needs of learners of all ages, from children to business professionals. Here are some of the key offerings:
+
+1. **One-on-One Tutoring:** Instant access to tutors who tailor lessons based on personal goals and interests.
+2. **Flexible Scheduling:** Available 24/7, learners can practice conversations at their convenience.
+3. **Resource Variety:** Cambly offers courses, resources, and options tailored for kids and businesses, making it an inclusive platform.
+4. **Group Lessons:** For a collaborative experience, Cambly provides structured small group sessions that facilitate real-world practice.
+
+### Pricing and Plans
+Cambly’s plans are competitive, starting as low as $17/month for small group sessions and $38/month for full private lesson access. They also offer specialized programs for kids and business learners, ensuring a wide range of options depending on individual needs.
+
+### User Experience
+Users appreciate Cambly's ethos of embracing mistakes as part of the learning process, fostering a non-judgmental environment. Each lesson reinforces skills and sets personalized activities to help track progress over time.
+
+### Join the Community
+Cambly also invites individuals to join its tutor community, allowing them to earn flexible income while helping students worldwide.
+
+### Conclusion
+In a world where English proficiency can open doors to new opportunities, Cambly stands as a beacon for learners and tutors alike. It’s a simple yet powerful platform that showcases the magic of real conversations, bridging gaps across cultures one chat at a time.
+
+Whether you're looking to sharpen your English skills or become a tutor, Cambly is your go-to app that transcends traditional learning approaches. Don't just learn—make real progress with Cambly!",Michael Seibel,https://www.ycombinator.com/people/michael-seibel,On-demand access to English tutors over video chat.,https://www.ycombinator.com/companies/cambly,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/0d8956652212ecf95335adc562e4f0ac81fe410a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4c76ccd536944d056f3251b2b2bc573f89fd25ee5ed318818717cad04dc5c15a,data/logos\Cambly_logo.png,Cambly,"['https://www.linkedin.com/company/cambly/', 'https://www.crunchbase.com/organization/cambly', 'https://github.com/Cambly']",True,industry:education; location:san-francisco-bay-area,200.0,http://www.cambly.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"CareMessage is the technology non-profit building the largest patient engagement platform for low-income populations in the United States. Powered by the Health Equity Engine™, the platform enables organizations to combine messaging, data, and interoperability to increase access to care, improve clinical outcomes, and address social drivers of health.
+
+With 20 million patients reached since 2013, CareMessage is the only patient engagement solution proven to improve health equity at scale. The team, many with lived experiences in these communities, leverages a nonprofit model to reinvest revenue into impact. CareMessage is the partner of choice for organizations committed to advancing health equity.",2012.0,"[{'name': 'Cecilia Corral, Founder/Vice President of Product', 'description': 'Driven by her experiences growing up in a low-income immigrant household, Cecilia takes a patient-centric approach to product development with a relentless focus on user research. Outside of her work at CareMessage, she is an advocate for Diversity and Inclusion in the tech industry through collecting and publishing data on Latina Tech Founders. Cecilia was on the 2019 Forbes 30 under 30 list for Healthcare and graduated with a B.S. in Product Design Engineering from Stanford University.', 'linkedin': 'https://www.linkedin.com/in/ceciliacorral'}, {'name': 'Vineet Singal, Founder/CEO', 'description': 'Vineet Singal is the Co-Founder and CEO of CareMessage. Previously, he conducted and\npublished peer-reviewed research in molecular biology and epidemiology at the Mount\nSinai School of Medicine and the National Institutes of Health.\xa0Vineet has served as a\nstudent representative on the Stanford\xa0Board of Trustees\xa0and the Stanford\xa0Medicine\nCommunity Council and graduated with University Distinction from Stanford.', 'linkedin': 'https://www.linkedin.com/in/vineetsingal/'}]","### CareMessage: Bridging the Gap to Health Equity
+
+**Overview:**  
+Founded in 2012 and part of the Y Combinator Batch W14, CareMessage is a San Francisco-based nonprofit on a mission to enhance patient engagement among low-income populations across the United States. With a robust team of 45 employees, CareMessage has made significant strides in healthcare technology—reaching over 20 million patients since its inception.
+
+**The Mission:**  
+At its core, CareMessage is dedicated to promoting health equity. Leveraging its proprietary Health Equity Engine™, the organization integrates messaging, data, and interoperability into its platform. This holistic approach allows healthcare providers to increase access to care, improve clinical outcomes, and tackle the social factors that contribute to health disparities.
+
+**Impact:**  
+CareMessage stands out as the only proven patient engagement solution delivering scalable improvements in health equity. It collaborates closely with organizations committed to this cause, reinvesting its revenue back into impactful initiatives that benefit the communities it serves.
+
+**Technology and Innovation:**  
+The platform’s capabilities enable healthcare organizations to create personalized communication with patients, ensuring that individuals receive timely and relevant health information. This is especially vital in underserved communities where access to care is often limited.
+
+**Community and Culture:**  
+Many team members at CareMessage come from the communities they serve, bringing invaluable lived experience and insight into the challenges faced by low-income populations. This connection to the community shapes the organization's innovative solutions and empathetic approach to patient engagement.
+
+**Future Directions:**  
+As CareMessage continues to expand its reach and refine its technology, it remains focused on its mission to foster health equity. The nonprofit model allows it to adapt swiftly, addressing emerging challenges in health access and outcomes.
+
+For more information about CareMessage and its initiatives, visit [caremessage.org](http://caremessage.org).
+
+In summary, CareMessage isn't just another health-tech company; it's a mission-driven organization that integrates community insights with technology to push for a healthier and more equitable future.",,,Patient engagement for low-income populations,https://www.ycombinator.com/companies/caremessage,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/0ed79acfe5ea2807bd2b10e5b18b3885be310e0b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191041Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a501838d6db1d2d20864e4bc48aca139f944d0fea9aeb91570537cdfe3e71e7,data/logos\CareMessage_logo.png,CareMessage,"['https://www.linkedin.com/company/caremessage', 'https://twitter.com/caremessage', 'https://www.crunchbase.com/organization/caremessage', 'https://github.com/CareMessagePlatform']",True,industry:health-tech; industry:digital-health; location:san-francisco-bay-area,45.0,http://caremessage.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"CodeCombat is a multiplayer programming game for learning how to code. With thousands of schools and millions of students, we are bringing K12 computer science education to everyone, regardless of gender, race, or background. Everyone should have the opportunity to learn.
+
+The ultimate goal of CodeCombat is to bring more users into the field of computer programming by making the logic and syntax more accessible and enjoyable to learn. The end game is to educate a whole new generation of computer programmers that started their journey by slaying ogres and defending their castles from oncoming enemy hordes.
+
+We teach Python, JavaScript, and other languages directly in the browser. Teachers with no computer science background can get started in five minutes. In a world where all programmers have had to be second-language learners, do you want your students to become native speakers of code? Let's chat about bringing CodeCombat to your school!
+
+Find us on Twitter at https://twitter.com/CodeCombat",2013.0,"[{'name': 'Nick Winter, Founder/CEO', 'description': ""Current: CodeCombat (YC W14), a multiplayer programming game for learning to code.\n\nPreviously: founded Skritter, the power user's app for learning to write Chinese/Japanese characters.\n\nAlso: wrote The Motivation Hacker, a guide to getting yourself to want to do what you've always wanted to want to do.\n\nI'm in the Seattle area and have three kids (2015, 2017, and 2021).\n\nSee more: https://www.nickwinter.net/"", 'linkedin': 'http://linkedin.com/in/nwinter'}]","### CodeCombat: Empowering Future Coders Through Play
+
+**Mission & Background**  
+Founded in 2013 and based in San Francisco, CodeCombat believes in making computer science education accessible to all, especially middle and high school students. The mission is clear: to teach coding through engaging gaming experiences, effectively opening the doors to the world of programming for diverse students across the globe. CodeCombat started as a multiplayer game where players learn to code while battling ogres and defending kingdoms—pretty epic, right?
+
+**Educational Philosophy**  
+Their approach centers around making the fundamentals of programming not just understandable, but enjoyable. With a focus on creating a new generation of “native speakers” in the language of code, CodeCombat serves over 20 million students from various backgrounds. They’re committed to inclusivity, ensuring everyone has the opportunity to dive into the world of coding, regardless of gender, race, or socioeconomic status.
+
+**Curriculum & Tools**  
+CodeCombat offers a robust curriculum that teaches widely-used programming languages like Python, JavaScript, and even C++. Their platform enables teachers—who may not have a background in computer science themselves—to start teaching in just five minutes. You can think of CodeCombat as a playground for coders, where students can level up their skills through interactive challenges and projects that feel more like games than lessons.
+
+### Current Offerings
+- **CodeCombat Classroom**: A comprehensive curriculum from core coding concepts to advanced topics like web and game development.
+- **CodeCombat Junior**: Tailored for younger learners (K-5), focusing on foundational coding skills.
+- **AI League Esports**: This platform fosters competitive programming in a game-based environment.
+- **Ozaria**: A narrative-driven adventure that reinforces computer science principles.
+- **AI HackStack & AI Junior**: Tools designed to introduce students to generative AI in a way that prioritizes safety and learning.
+
+### Key Statistics & Impact
+- Over **1 billion lines of code** written by students.
+- Support for **320,000 teachers** and **75,000 schools** in **190+ countries**.
+- Focus on **student empowerment** through project-based assessments and live online classes that blend gameplay with structured learning.
+
+### Community & Support
+CodeCombat isn't just about coding; they also offer resources for educators, from professional development to grants and funding resources. They run campaigns like ""Hour of Code,"" helping educators integrate coding into their classrooms effectively.
+
+### Get Involved
+Interested in bringing CodeCombat to your school? They welcome conversations about integrating their solutions into your curriculum.
+
+**Connect**: Follow them on [Twitter](https://twitter.com/CodeCombat) and visit their [website](https://codecombat.com) for more details on how CodeCombat can transform coding education in your community.
+
+So, if you're looking to make coding skills not only accessible but also thrilling for the new generation, CodeCombat is a solid bet. They’re making coding feel like a quest, and who wouldn't want to embark on that journey?",,,Game that teaches computer science to middle and high school kids.,https://www.ycombinator.com/companies/codecombat,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/2487f351c7c40e79254e6354d00b21541fffd91f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=38bbd23c4cdc2e61aec02615bfffeab3d780f3af90c0297532d744167dfd761c,data/logos\CodeCombat_logo.png,CodeCombat,"['https://www.linkedin.com/company/codecombat', 'https://twitter.com/codecombat', 'https://www.facebook.com/codecombat', 'https://www.crunchbase.com/organization/codecombat', 'https://github.com/codecombat']",True,industry:education; industry:elearning; industry:gaming; location:san-francisco-bay-area,45.0,https://codecombat.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"CodeNow is a 501(c)(3) nonprofit transforming high school students into coders, designers, and product managers. By helping students unlock their intrinsic motivations, they are learning to solve meaningful problems in their communities with software.",,[],"### CodeNow: Bridging Talent and Technology
+
+**Mission**: CodeNow seeks to diversify the talent pipeline of students by transforming high school kids into proficient coders, designers, and product managers. They focus on nurturing intrinsic motivations and empowering youth to tackle meaningful challenges in their communities through software.
+
+**About the Company**: As a 501(c)(3) nonprofit organization based in Chicago, IL, CodeNow was founded as part of Y Combinator's W14 batch. With a small team of just two employees, CodeNow is dedicated to providing impactful education to youth. They help students unlock their potential and contribute positively to society using technology.
+
+**What They Do**:
+- **Education Focus**: CodeNow trains students in coding and design, fostering essential skills in the tech industry.
+- **Broader Services**: They also offer solutions for enterprises, startups, and agencies, positioning themselves as a versatile partner in the tech landscape.
+
+**Current Achievements**: Recently, CodeNow earned an honorable mention in Gartner’s Magic Quadrant for DevOps Platforms 2023—a testament to their quality and impact in the software development domain.
+
+**Technological Capabilities**: The platform integrates various services from design and creation to release and monitoring, all while supporting modern microservices development. They offer options for enterprises and startups, including partnership opportunities that can help grow businesses.
+
+**Community Impact**: By focusing on high school students, CodeNow addresses the critical issue of underrepresentation in technology fields. Their approach not only empowers the next generation of tech professionals but also aligns well with community needs.
+
+For more information and to engage with their initiatives, you can visit [CodeNow's website](http://codenow.org). If you're interested in their mission or services, don’t hesitate to reach out!",,,Our mission is to diversify the talent pipeline of students whoâ¦,https://www.ycombinator.com/companies/codenow,"Chicago, IL",https://bookface-images.s3.us-west-2.amazonaws.com/logos/2da58d5c72e7d4e87ebe3704055dcea62b6e1713.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191057Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aabf2b8a00f3c2ff419bca45a734cff5c8bf8c0d8eeed8ce8d10163586ff36fc,data/logos\CodeNow_logo.png,CodeNow,"['https://www.crunchbase.com/organization/codenow', 'https://github.com/codenowinc']",True,industry:education,2.0,http://codenow.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"DevCycle empowers development teams with seamless management of code deployment and feature releases. Our flexible and integrated Feature Management solution, specifically designed for developers, grants teams full control over their feature flags while preventing the accumulation of tech debt. With our scalable and cost-efficient platform, teams can focus on what truly matters—building exceptional software—without being bogged down by the complexities of feature management.
+
+Previously known as Taplytics, born at Y Combinator in Silicon Valley as an A/B Testing and Experimentation solution for product and marketing teams, we have evolved into DevCycle, a trusted Feature Management Solution utilized by some of the world's largest brands. Serving millions of end-users and launching billions of events, we understand the demands of high-scale operations.",2011.0,"[{'name': 'Andrew Norris, Founder/COO', 'description': 'COO and Co-Founder, here to help with anything B2B sales, A/B testing, Finance, Operations, etc.', 'linkedin': 'https://www.linkedin.com/in/andrewsnorris/'}, {'name': 'Jonathan Norris, Founder/CTO', 'description': 'Co-Founder & CTO @ DevCycle + Taplytics W14', 'linkedin': 'https://www.linkedin.com/in/jonathantnorris'}, {'name': 'Cobi Druxerman, Founder/CPO', 'description': None, 'linkedin': 'https://www.linkedin.com/in/druxerman/'}]","**DevCycle: Empowering Developers with Feature Flag Management**
+
+Founded in 2011 and originally known as Taplytics, DevCycle emerged from the prestigious halls of Y Combinator's W14 batch. Today, it stands as a robust solution in the realm of feature flag management, specifically crafted for developers who want to take control of their code deployment and feature releases without succumbing to technical debt.
+
+**Mission Statement**
+DevCycle champions the idea that feature flag management should be straightforward and user-friendly. Their mission is to deliver a platform that enables development teams to ship features faster and more confidently, with complete visibility and control over their feature flags.
+
+**Evolution and Expertise**
+Starting as an A/B testing tool tailored for product and marketing teams, DevCycle has metamorphosed into a versatile platform that handles millions of end-users and billions of event launches. This evolution underscores their in-depth understanding of high-scale operational demands, making them a trusted partner for some of the world's leading brands.
+
+**Key Features & Benefits**
+- **Flexible Integration**: DevCycle provides an integrated Feature Management solution, reducing the time developers spend managing feature flags, allowing them to focus on what they do best—building exceptional software.
+- **Scalable and Cost-Efficient**: With its low-latency and fault-tolerant edge network, the platform ensures that teams can manage feature flags with reliability while also keeping costs in check.
+- **Advanced Functionalities**: DevCycle includes features like real-time updates, gradual rollouts, A/B testing, and permissions management, ensuring teams can implement changes carefully and track their impact.
+
+**A Supportive Developer Ecosystem**
+DevCycle is part of the OpenFeature ecosystem, supporting open-source SDKs and enabling developers to avoid vendor lock-in. This transparency and flexibility are hallmarks of their approach, allowing easy migrations and provider swaps.
+
+**Pricing Model**
+True to its ethos, DevCycle embraces a usage-based pricing model rather than charging by seat. This approach ensures that all team members can access the platform, fostering collaboration and maximizing value.
+
+**Team and Location**
+Located in Toronto, Canada, DevCycle has a dedicated team of 55 professionals, all focused on enhancing the developer experience and streamlining software releases.
+
+**Conclusion**
+In a fast-paced technological landscape where speed and reliability are paramount, DevCycle offers a straightforward, scalable solution for feature flag management. By doing so, it not only aids developers but ultimately empowers companies to innovate without the burden of complexity. If you’re interested in cutting-edge feature management, check out their [website](http://devcycle.com) and consider signing up for a trial today—your dev team might thank you later!",,,Feature Flag Management Built for Developers,https://www.ycombinator.com/companies/devcycle,"Toronto, Canada",https://bookface-images.s3.us-west-2.amazonaws.com/logos/835012dab3caa732955c533dbbe4288852681af8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191118Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=22bb5c3ccc1996f1e721e24c685800d375277b30e8b720e4e6003127f4624b19,data/logos\DevCycle_logo.png,DevCycle,"['https://www.linkedin.com/company/devcyclehq', 'https://twitter.com/devcycleHQ', 'https://www.crunchbase.com/organization/devcycle', 'https://github.com/DevCycleHQ']",True,industry:saas; industry:b2b,55.0,http://devcycle.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Dyspatch by Sendwithus is a powerful communications platform built around advanced email content management. Our platform simplifies transactional email creation with a robust API, an easy to use editor, and built-in device testing, allowing for truly collaborative email strategy and execution.
+
+A centralized hub for email creation, approval, and publishing, our cloud-based solution empowers Product, Marketing, CRM, and Loyalty teams to efficiently build and test meaningful, dynamic communications without involving developers or deploying code. And with built-in support for 300+ locales, your teams can seamlessly manage localized content for global communications.
+
+Easily connect your cloud email provider or customize your integration to connect to your digital messaging service. Upload your existing templates in minutes. And from there, youâre well on your way to optimizing every email you send.",,[],"**Company Overview: Dyspatch**
+
+Dyspatch is a SaaS company based in Victoria, Canada, that aims to revolutionize how businesses communicate via email. Their mission is simple yet impactful: to help everyone email better. Founded as Dyspatch by Sendwithus and part of Y Combinator Batch W14, Dyspatch is a powerful communications platform designed around advanced email content management.
+
+### What They Do
+
+At its core, Dyspatch provides a centralized hub for email creation, approval, and publishing. Whether you're in Product, Marketing, CRM, or Loyalty teams, their cloud-based platform allows you to build and test tailored communications without coding. Think of it as giving non-technical teams the tools to craft sophisticated, dynamic emails that drive engagement. With support for 300+ locales, you can manage global communications effortlessly.
+
+Key features include:
+
+- **No-Code Email Builder:** No need for coding skills to create engaging emails.
+- **Email Collaboration Tools:** Get teams aligned with built-in commenting and approval workflows.
+- **Template Localization:** Easily customize emails for different regions and languages.
+- **AMP for Email:** Create interactive email experiences that engage users in real time.
+
+### Impact
+
+Dyspatch boasts impressive stats: they claim to reduce engineering resources by 95%, boost email conversions by 300%, and increase email engagement by a staggering 500%. Trusted by major brands like Canva, BMO, and Postmates, their platform is positioned as a go-to solution for companies looking to streamline their email communications while improving their overall marketing strategy.
+
+### Team and Growth
+
+With a team of around 20 employees, Dyspatch is small but nimble. Their approach focuses on innovation and strong customer support. The enthusiasm within their team of #emailgeeks stems from a deep commitment to email excellence, helping brands achieve higher engagement and ROI.
+
+### Why Choose Dyspatch?
+
+If your organization struggles with slow email production, broken templates, or complex localization processes, Dyspatch could be a game-changer. Their modular design system offers flexibility, allowing you to quickly adapt and innovate without getting bogged down by development cycles.
+
+### Conclusion
+
+In a world where communication is key, Dyspatch stands out as a leading player that empowers businesses to optimize their email strategies. Their user-friendly platform, coupled with insightful support, makes them a valuable partner for any enterprise looking to elevate its email game. For more information, check out their [website](https://www.dyspatch.io).
+
+This blend of utility and innovation makes Dyspatch not just another email tool; it’s a comprehensive solution for brands keen on staying ahead in digital communications.",,,Two products to help everyone email better. Dyspatch.io - Emailâ¦,https://www.ycombinator.com/companies/dyspatch,"Victoria, Canada",/logos/medium/missing.png,,Dyspatch,"['https://twitter.com/getdyspatch', 'https://www.crunchbase.com/organization/sendwithus', 'https://github.com/getdyspatch']",True,industry:saas; industry:b2b,20.0,https://www.dyspatch.io
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,,,[],"Emailio is on a mission to revolutionize how we think about email by making it a tool for wellness. Imagine an email system that promotes productivity while simultaneously caring for your mental and emotional well-being. That's what Emailio aims to accomplish.
+
+Initially, Emailio started as a small website, but it quickly made its mark in the startup ecosystem by joining the prestigious Y Combinator Batch W14. Although specific founding details aren't provided, their involvement with Y Combinator signals a strong foundation in the startup world.
+
+Located at [emailio.com](http://emailio.com), they have a tight-knit team of about five employees. While the location isn't mentioned, their small team suggests a focused and agile approach to developing their product.
+
+Emailio is tagged with keywords like “productivity” and “health & wellness,” which encapsulate their dual focus. They seem to be carving out a niche where email doesn’t just serve as a communication tool but as a catalyst for better mental health and productivity.
+
+Currently, specifics on their operations and offerings aren't disclosed, but given their mission and background, they are likely working on innovative features or services that align with enhancing wellness through email. If you're interested in a more balanced approach to handling your inbox, Emailio is definitely a company to keep an eye on.",,,Email built for wellness,https://www.ycombinator.com/companies/emailio,,https://bookface-images.s3.us-west-2.amazonaws.com/logos/71ec431698d10e336de4b0bb2669114c0e0442a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191305Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=47fb0550eecbb80dbe6663f91e9fa332c223182bb2108f9cae77252481476ffc,data/logos\Emailio_logo.png,Emailio,['https://www.crunchbase.com/organization/emailio'],True,industry:productivity; industry:health-&-wellness,5.0,http://emailio.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Founded in 2013, we believe trade can move the human race forward. That’s why our mission at Flexport is to make global trade easy for everyone.
+
+What the internet has done for bits and bytes, Flexport is doing for physical goods: giving every business the ability to connect to any customer, wherever they are in the world. That sounds pretty straightforward, but a fragmented and inefficient global supply chain has held the world back from untapped growth and innovation. By connecting everyone in the global economy we can unlock commerce, creativity, and human progress.
+
+To do so, we’re building the platform for global logistics—empowering buyers, sellers and their logistics partners with the technology and services they need to grow and innovate. 
+Today, we work with more than 40,000 customers and their suppliers across industries like manufacturing, retail, electronics, consumer goods, tech, apparel, and beauty. Companies of all sizes—from emerging brands to Fortune 500s—used Flexport technology to move nearly $19B of merchandise across 112 countries in 2021.
+
+Interested in joining our team? Check out our open job postings on careers site and apply directly today! https://www.flexport.com/careers/jobs/",2013.0,"[{'name': 'Ryan Petersen, Founder/CEO', 'description': 'Founder of Flexport', 'linkedin': 'https://www.linkedin.com/in/rpetersen'}]","**Flexport: Unlocking Global Trade**
+
+Founded in 2013 and based in San Francisco, Flexport aims to streamline international logistics, turning trade into a seamless experience. Imagine transforming the fragmented, often chaotic state of global supply chains into something as simple and accessible as browsing a website. That’s what Flexport is doing.
+
+When you think of Flexport, think of it as the equivalent of the internet for physical goods. Just like the internet democratized information, Flexport’s platform is opening up global markets for businesses of all sizes. Whether you’re an emerging brand or a Fortune 500 company, if you want to get your products to customers around the world, Flexport has the tools to help you do it efficiently.
+
+**The Mission**: Flexport believes that trade can be the driving force for human progress. Their mission is to make global trade easy for everyone, enabling buyers, sellers, and logistics partners to connect and thrive.
+
+**Impact**: In 2021 alone, Flexport facilitated the movement of nearly $19 billion worth of merchandise across 112 countries, serving over 40,000 customers in diverse sectors such as manufacturing, retail, electronics, and consumer goods.
+
+**What They Do**: Flexport’s platform encompasses a full suite of logistics solutions:
+- **Forwarding**: Simplifying ocean, trucking, and air freight operations.
+- **Fulfillment**: Accelerating eCommerce through streamlined warehousing and shipping solutions.
+- **Control Tower**: Offering tools for order and booking management.
+- **Customs & Financial Services**: Covering customs brokerage, insurance, trade finance, and advisory services.
+
+With a dedicated team of around 3,000 employees, Flexport is positioned to lead the logistics tech space, drawing on insights to navigate the impacts of tariffs, trade politics, and environmental considerations.
+
+**Join the Movement**: If you’re interested in shaping the future of global trade, Flexport is actively hiring. Check out their open roles [here](https://www.flexport.com/careers/jobs/)!
+
+Flexport isn’t just about logistics; it’s about empowering businesses to innovate and engage in a truly global economy. And in a world where traditional means often fall short, this tech-driven approach is essential for unlocking new avenues of growth and creativity.",,,Platform for global logistics.,https://www.ycombinator.com/companies/flexport,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/af84247ec86ff6bd7e0df735b79dbaf156df6d12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191341Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7d255eba91bf754bcbe20e86a22ce14051c625201a3c01bcb7bf94162cb0553a,data/logos\Flexport_logo.png,Flexport,"['https://www.linkedin.com/company/flexport/', 'https://twitter.com/flexport', 'https://www.crunchbase.com/organization/flexport', 'https://github.com/flexport']",True,industry:saas; industry:logistics; industry:supply-chain; location:san-francisco-bay-area,3000.0,https://www.flexport.com/careers/jobs/
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,Our technology enables li-ion batteries to charge extremely fast while retaining long cycle life using smart control algorithms.,2014.0,"[{'name': 'Tim Sherstyuk, Founder/CCO', 'description': '2020 Forbes 30 Under 30 - Energy', 'linkedin': 'https://www.linkedin.com/in/timsherstyuk'}, {'name': 'Nick Sherstyuk, Founder', 'description': None, 'linkedin': None}]","### GBatteries Overview
+
+**Company Name:** GBatteries  
+**Founded:** 2014  
+**Location:** Ottawa, Canada  
+**Team Size:** 25 employees  
+**Y Combinator Batch:** W14  
+**Website:** [gbatteries.com](https://www.gbatteries.com)
+
+---
+
+**Mission Statement:**  
+GBatteries aims to revolutionize the battery charging experience by enabling lithium-ion batteries to charge ultra-fast without compromising their lifespan or safety. Their technology is not just about speed; it’s designed to retain battery integrity over time, addressing the critical limitations of conventional battery technology.
+
+**Core Technology:**  
+At the heart of GBatteries’ innovation are smart control algorithms integrated within an intelligent, adaptive battery management system. This allows their Li-metal batteries to achieve impressive performance metrics:
+- **Fast Charging:** Up to 4 times quicker than standard Li-ion batteries, allowing charges to be completed in under 15 minutes.
+- **High Energy Density:** Achieves greater than 450 Wh/kg and 1000 Wh/L, effectively doubling the density of traditional options.
+- **Longevity and Safety:** Supports over 500 charge cycles through advanced algorithms that combat failure modes.
+
+**Sector Focus:**  
+GBatteries has positioned itself as a leader in several strategic tags: energy storage, hard-tech, and climate solutions. Their products are designed for various applications across electric mobility, from cars to drones and even potential electric aircraft, making them critical players in the future of sustainable transportation.
+
+---
+
+**Technological Advancements:**
+- **Li-metal Batteries:** Achieving the next step beyond current Li-ion technology, these batteries are engineered to be lighter, more powerful, and safe.
+- **Intelligent Management:** The inclusion of adaptive systems helps mitigate common battery issues, such as dendrite formation, which can destabilize performance and safety.
+
+**Research & Development:**  
+GBatteries has invested over nine years into R&D, accumulating more than 50 billion data points to fine-tune their algorithms and battery models, alongside securing over 60 patents globally.
+
+---
+
+**Investor Support:**  
+The company is backed by notable investors and has gained visibility through its presence in prestigious tech incubators like Y Combinator. This not only validates their approach but also positions them well for future growth in a competitive landscape.
+
+**Conclusion:**  
+GBatteries is on an exciting trajectory, leading the charge in battery technology that promises to reshape electric mobility. With a commitment to safety, performance, and sustainability, they are not just building batteries—they are powering the future of transportation. If you're interested in the next generation of energy solutions, GBatteries is definitely one to watch.",,,Enabling li-ion batteries to charge ultra fast without compromisingâ¦,https://www.ycombinator.com/companies/gbatteries,"Ottawa, Canada",https://bookface-images.s3.us-west-2.amazonaws.com/logos/a9e1b6e9dd8770478785a05ed84349ed77a9147a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJMV6TLGB%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191354Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFLa1ybFb1MW3YWarl6N2DZLtQ4R6h64JtRzg2nxAowaAiB3nTk9Wj2wgaQBuQdmXKSYUK01s%2FfzNcIsI%2FpnnVYrDCruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMbK4eHGyZbeOmKiEOKsIDEgeFqYzoIm9WYPES%2BanLfTcQEGyzIks%2Fal2Lmqxe4p56ewXYsETQE6xKLCXrmvzZNyUDpx5dtkyRoWAO6FYyXXGaPQzEZ3lyFdj%2BxmzYPjn73zyfO0POWT06n60Ss4FWi%2BsXTCqzCDlztmj5P3pe%2BccFf3AJ6Fob0iUEcgWZg86XqS2niw4lXPnalb%2Boq3NuXvHl2oVLzjcW3kqbNIZD4bJeuP%2BaiX3YtJ%2BJXjqRV4JMYzbegC89ld8%2FQ6Niu9GP6iWyA3Ij%2Frc6v9eF94GLnVFmDUIq%2FgOldm3US8WLOYW64cbfEYgRv4%2BZqFOZik7gMqvr0%2BAMO66zctStkeS7pQEndome2HMXzolZnAHIKHa7syJwRucmMBn1qLVqGHDFwDTWD66ZqASdClXaJEb6qKYFGBQM0HPz9IZYPkFD7FlZyifcWNrFEjlM4LJiyAQcunx30b5EMcz8oT7YjYIo5Bb2DOsnIt6uAdkOmUPUmY%2FzM3PmuL6ZYePw7XBzfBYcfiNqZPHWFO6x0%2FmP5sl5TFTspcBFiC1tU5q9L40pvlUpeAHA0lByHoziRM9b9aIUnBzO8cEmGGLYvEv9AlDEIduUMLKL470GOqYBeuzvU%2B1K1xvzamOk1TaDeko%2BJlQ8xUgcguCKvnE%2BpYSn9MQz0SIXrm4hUrSnIO%2FjFoTZ4esBSlXTCkXH%2F6%2BRHttOAoEAfv1XQWO8%2Bsv2qVS97SrODEBLVhY1tfEFQcw%2BZ93GUo5LYHe1U2PubGkf9wTLJ5AZCq5Vr1%2FKLwVlulVfHEhtz4E3fzOL1TPO7tIclZor0kZmzjAwtkky7VHrQVXehNV3Gw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1909c8355857820b0340729081ac60ad4f9dced815c060e728c87310208afbe3,data/logos\GBatteries_logo.png,GBatteries,"['https://www.linkedin.com/company/gbatteriesenergy', 'https://twitter.com/GBatteries', 'https://www.crunchbase.com/organization/gbatteries']",True,industry:energy-storage; industry:hard-tech; industry:climate,25.0,https://www.gbatteries.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Guesty’s property management software provides property managers and management companies with an end-to-end solution to simplify the complex operational needs of short term rentals. With Guesty, users can manage listings from multiple online travel agencies including Airbnb, Booking.com, Agoda and TripAdvisor, and utilize the company’s guest-centric tools including: Unified Inbox, Automation Tools, 24/7 Guest Communication Services, Payment Processing and more.",2013.0,"[{'name': 'Amiad Soto, Founder/CEO', 'description': '-', 'linkedin': 'https://www.linkedin.com/in/amiadsoto'}, {'name': 'Koby Soto', 'description': 'ENTP', 'linkedin': 'https://linkedin.com/in/kobysoto'}]","## Guesty: The Management Platform For Short-Term Rentals
+
+**Overview:**
+Founded in 2013 and a part of Y Combinator's Batch W14, Guesty operates out of Tel Aviv-Yafo, Israel, employing over 700 team members. Its mission is straightforward: to streamline the complex operational needs of the short-term rental industry through a comprehensive management platform.
+
+**What Guesty Offers:**
+At its core, Guesty provides property management software that helps rental managers and management companies centralize their operations across various online travel agencies, such as Airbnb, Booking.com, Agoda, and TripAdvisor. Key offerings include:
+
+- **Unified Inbox**: A single thread for all guest communications.
+- **Automation Tools**: For tasks like messaging and pricing.
+- **24/7 Guest Communication Services**: Ensuring round-the-clock support.
+- **Payment Processing**: Streamlining financial transactions.
+- **Analytics and Reporting**: Gaining insights into property's performance.
+
+Guesty really focuses on simplifying management so users can maximize their efficiency and guest satisfaction.
+
+**Features:**
+Guesty is packed with an array of features designed to cater to the multifaceted demands of property management:
+
+- **Channel Management**: Synchronizes listings across all platforms.
+- **Revenue Management**: Helps determine competitive pricing strategies and maximize occupancy.
+- **Multi-Calendar**: Lets managers track bookings and availability in one integrated calendar.
+- **GuestyCRM**: Manages guest data to enhance relationships and service.
+
+The platform is adaptable to various types of properties, including vacation rentals, serviced apartments, urban rentals, guesthouses and B&Bs, aparthotels, and even outdoor stays.
+
+**Add-Ons:**
+- **Guesty Pay**: For seamless payment handling.
+- **Guesty Capital**: For funding opportunities to grow your business.
+- **Damage Protection**: Comprehensive coverage against potential damages.
+- **Guest Communication Services**: Offloads guest interactions to experts.
+
+**Why Choose Guesty?**
+In the ever-evolving landscape of the short-term rental market, having an adaptable and comprehensive platform like Guesty can make all the difference. It not only centralizes operations but also equips property managers with the tools they need to thrive—metrics to measure success, flexibility to deploy strategies quickly, and the technology to automate tedious tasks.
+
+Guesty is that partner you want when scaling your rental business while maintaining high levels of service and profitability.
+
+For more details or to get started, you can visit [Guesty’s official website](http://www.guesty.com).",,,The management platform for the short term rental industry.,https://www.ycombinator.com/companies/guesty,"Tel Aviv-Yafo, Israel",https://bookface-images.s3.us-west-2.amazonaws.com/logos/9224482aff024ee398765caa8d4c2fdf69bffcaf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191406Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8e1a0b3392b85aced32761951b49b8d04ac7ff56a72185f5996dcdfc79a22231,data/logos\Guesty_logo.png,Guesty,"['https://www.linkedin.com/company/guesty/', 'https://twitter.com/guesty', 'https://www.facebook.com/guestycom/', 'https://www.crunchbase.com/organization/guesty/org_similarity_overview', 'https://github.com/guestyorg']",True,industry:saas; industry:b2b; industry:travel; industry:proptech,700.0,http://www.guesty.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"We're developing a free vaccine to cure HIV and AIDs.  Immunity Project is a non-profit initiative dedicated to developing an HIV vaccine. We hacked the HIV life cycle to develop a vaccine that gives you the same power as HIV controllers. With success in our clinical trials, our goal is to give our vaccine away to the world for free.",,"[{'name': 'Ian Cinnamon', 'description': 'http://linkedin.com/in/iancinnamon', 'linkedin': 'http://linkedin.com/in/iancinnamon'}, {'name': 'Naveen Jain', 'description': None, 'linkedin': 'https://www.linkedin.com/in/naveenkjain'}, {'name': 'Reid Rubsamen', 'description': None, 'linkedin': 'https://www.linkedin.com/in/reidrubsamenmd'}]","**Immunity Project: The Quest for a Free HIV Vaccine**
+
+The Immunity Project isn’t just another biotech company; it’s a beacon of hope in the fight against HIV and AIDS. Founded during the Y Combinator Batch W14, this San Francisco-based non-profit has set itself an audacious mission: to develop a free vaccine that can cure HIV. Their approach? They’ve ingeniously hacked the HIV life cycle, creating a vaccine designed to empower individuals with the same immunity as those the industry terms “HIV controllers” — people who naturally manage the virus without medical intervention.
+
+With a compact and dedicated team of 11, Immunity Project is channeling its resources towards turning this vision into a reality. They’ve made significant strides in clinical trials, and the endgame is crystal clear: giving the vaccine away for free to anyone who needs it, breaking down the barriers often associated with access to life-saving medical technology.
+
+Situated in a prime health-tech and biotech hub, Immunity Project taps into the rich ecosystem of innovation that characterizes the San Francisco Bay Area. This location not only supports their mission but connects them with partners and resources that amplify their impact. As they continue their work, they remain committed to their core principle of making healthcare accessible, which stands as a testament to their values.
+
+So, if you’re looking to see what’s brewing at the intersection of technology and health, the Immunity Project is one to keep an eye on. They embody the spirit of innovation and humanity — driven not just by profits but by a profound desire to eradicate a disease that has plagued society for far too long.
+
+For more information, you can visit their [website](http://immunityproject.org).",,,The free HIV vaccine.,https://www.ycombinator.com/companies/immunity-project,San Francisco,/logos/medium/missing.png,,Immunity Project,['https://www.crunchbase.com/organization/immunity-project'],True,industry:health-tech; industry:biotech; location:san-francisco-bay-area,11.0,http://immunityproject.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"MBX (formerly Memebox) is a multi-brand beauty and personal care startup headquartered in San Francisco. The venture-backed company has raised over $190M in funding from prominent investors, including Formation 8 & Group, Goodwater Capital, Johnson & Johnson, Pear VC, Y Combinator, and other Silicon Valley VCs. Memebox operates a portfolio of beauty and personal care brands that are co-developed with strategic partners like Sephora and Ulta, using data-driven insights to identify white space opportunities in the market. The company’s products are made in Korea, leveraging the latest K-beauty innovations in the formula, packaging, and speed-to-market. MBX has offices in San Francisco, Seoul, Shanghai, and Taipei, and its brands include Kaja, I Dew Care, Pony Effect, I’m Meme, and Nooni.",2012.0,[],"## Company Overview: MBX
+
+**Name:** MBX (formerly Memebox)  
+**Founded:** 2012  
+**Headquarters:** San Francisco, CA  
+**Employees:** 150  
+**Funding:** Over $190M from investors like Y Combinator, Johnson & Johnson, and Goodwater Capital.
+
+### Mission
+MBX is on a mission to be a global player in the beauty and personal care market, focusing on innovation and customer experience. They leverage the latest in K-beauty, creating products that cater to modern beauty enthusiasts worldwide.
+
+### Key Insights
+Initially founded as Memebox, MBX has evolved into a versatile beauty startup with a portfolio of curated brands. Their products are developed in collaboration with major retail partners like Sephora and Ulta, utilizing data-driven insights to spot gaps in the market.
+
+### International Footprint
+MBX operates across multiple global offices in **San Francisco**, **Seoul**, **Shanghai**, and **Taipei**, reflecting its aspirations to capture diverse markets. Their brands are part of a well-structured ecosystem that spans over **9,000 retail locations** worldwide, ensuring accessibility to consumers.
+
+### Brand Portfolio
+The company's offerings include several distinct brands:
+- **Kaja**: Playful color cosmetics.
+- **I Dew Care**: Skin-loving formulas that bring fun to skincare.
+- **Pony Effect**: Empowering beauty products designed for everyone.
+- **I'm Meme**: Captivating color across a variety of cosmetics.
+- **Nooni**: Emphasis on gentle skincare with a fresh approach.
+
+### Vision and Values
+MBX values efficacy, sustainability, and inclusivity. They strive to craft enjoyable and effective K-beauty products, ensuring that the beauty experience is both fun and fulfilling for consumers.
+
+### Noteworthy Achievements
+Being venture-backed yet profitable is a testament to MBX's strong business model and the community of loyal customers supporting its growth. As a Y Combinator alum from the W14 batch, the company is well-positioned among technology-forward startups.
+
+### Contact
+For more information or inquiries, visit their [official website](http://us.memebox.com) or contact them at **hi@memebox.com**.
+
+---
+
+In summary, MBX is not just another beauty startup; it's a compelling confluence of innovation, cultural insight, and passion for beauty that resonates with today’s global consumer. They're on the journey to redefine the beauty landscape one innovative product at a time.",,,A global multi-brand beauty and personal care startup.,https://www.ycombinator.com/companies/mbx,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/b58d51f7fc414fd648935a086b8e603fc7f72834.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191528Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=38feb2cc3062b543354750cb2293dfdb3d2d9b62f52c1661096e037cc6493a6c,data/logos\MBX_logo.png,MBX,"['https://www.linkedin.com/company/memebox-corp-/about/?viewAsMember=true', 'https://www.crunchbase.com/organization/memebox']",True,industry:beauty; location:san-francisco-bay-area,150.0,http://us.memebox.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"MixerBox is an AI Super-Apps technology company that helps people live easier through its 24/7 daily-essential mobile apps platform.
+
+Founded in 2012 by Harvard alumnus John Lai, MixerBox is backed by the Silicon Valley unicorn accelerator Y Combinator. The companyâs apps have surpassed 300,000,000 downloads worldwide, and allow MixerBox users to wake up to MixerBox AlarmTunes, read MixerBox NewsDash, browse with MixerBox ChatAI Browser, pay with MixerBox AI Pay, watch MixerBox FreecableTV, and fall asleep with MixerBox Inspire Meditation. App by app, MixerBox strives to become the âAnything, Anytime Super-Apps Platformâ to help people live easier.",,"[{'name': 'John Lai, Founder/CEO', 'description': ""Harvard '06"", 'linkedin': 'https://www.linkedin.com/in/johnlai1/'}]","**MixerBox: The Super-App Revolution**
+
+Founded in 2012 by Harvard graduate John Lai, MixerBox has quickly established itself as a pioneer in the AI super-app landscape. This Palo Alto-based company is backed by Y Combinator and is on a mission to create a suite of mobile applications that make life easier for users around the globe—over 300 million downloads so far, to be exact!
+
+### What’s the Vision?
+
+MixerBox aims to be the “Anything, Anytime Super-Apps Platform."" They do this through a range of apps that cater to different daily needs, such as:
+
+- **MixerBox AlarmTunes**: Wake up to personalized tunes.
+- **MixerBox NewsDash**: Stay updated with the latest news.
+- **MixerBox ChatAI Browser**: A smart way to browse the web.
+- **MixerBox AI Pay**: Simplifying payments.
+- **MixerBox FreecableTV**: Enjoy shows and movies without a cable subscription.
+- **MixerBox Inspire Meditation**: Wind down and reflect.
+
+### The Team and Culture
+
+With a nimble team of around 30, MixerBox is small but mighty. The company thrives on innovation and a culture that encourages experimentation with AI technologies to improve user interactions.
+
+### Taglines and Goals
+
+Mixtures of generative AI, consumer focus, and productivity features are at the core of what MixerBox offers. Whether it's enhancing daily routines or reshaping how we consume media, they're focused on one goal: making life easier for their users.
+
+### Explore Their Offerings
+
+MixerBox’s portfolio includes:
+
+- **MixerBox AI**: Conversational and smart applications for everyday tasks.
+- **Bubble Shooter** and **TurboScan**: Fun games and practical tools.
+- **CashBack**: A platform for smart shopping, currently tailored for the Taiwan market.
+- **MB3 OnePlayer**: Unifying media consumption with a multifunctional player.
+
+Whether you want an engaging way to wake up, stay informed, or just kick back and watch your favorite shows, MixerBox has you covered.
+
+### Final Thoughts
+
+In a world where convenience is king, MixerBox is carving out its niche with a robust selection of AI-powered apps designed to streamline everyday tasks. It’s a classic case of seeing an opportunity in complexity, and turning it into simplicity. 
+
+For anyone looking to dive deeper into their offerings, check out their website at [MixerBox.com](http://mixerbox.com). They keep pushing the envelope, and if you haven’t tried their apps yet, you’re missing out on a taste of the future!",,,AI Super-Apps to Live Easier | The anything anytime superappsâ¦,https://www.ycombinator.com/companies/mixerbox,Palo Alto,https://bookface-images.s3.us-west-2.amazonaws.com/logos/298fae60ccf9f16564016a387f56a84498940996.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191542Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d861aeafbb229fbc4a32ba23176418a93b8192f5e88577b9a56a3b854b8c5e13,data/logos\MixerBox_logo.png,MixerBox,"['https://www.linkedin.com/company/mixerbox', 'https://twitter.com/mixerbox', 'https://www.facebook.com/MixerBox', 'https://www.crunchbase.com/organization/mixerbox-inc']",True,industry:generative-ai; industry:consumer; industry:productivity; industry:ai; location:san-francisco-bay-area,30.0,http://mixerbox.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,Noora health trains patient families with high impact health skills that improve outcomes and save lives.,2014.0,[],"**Noora Health: Empowering Caregivers, Improving Lives**
+
+Founded in 2014 and part of Y Combinator's Batch W14, Noora Health is a pivotal organization based in Bengaluru, India, that’s on a mission to transform healthcare for patients and their families. The organization focuses on training families and caregivers in vital health skills, significantly enhancing care and outcomes within healthcare systems.
+
+### The Vision
+Noora Health believes that no one should suffer from preventable medical conditions. Their philosophy hinges on acknowledging that the most significant caregivers—families—often lack the knowledge and training to provide adequate care. This gap leads to preventable complications and, in some cases, even fatalities. By equipping families with essential caregiving skills, Noora Health is striving to change this narrative.
+
+### What They Do
+The organization has developed a scalable model of training that integrates seamlessly into existing healthcare frameworks. As a result, families not only become informed caregivers but also active participants in the healing process.
+
+Over the past decade, Noora Health has trained over **20 million caregivers**, representing more than **13 million patients**, and established partnerships with **11,700 healthcare facilities** across India, Bangladesh, and Indonesia. Their training programs have led to a remarkable **71% decrease in cardiac complications** and a **56% reduction in newborn readmissions**.
+
+### Team and Impact
+With a driven team of 150 individuals, Noora Health emphasizes family involvement in healthcare. They’ve received notable recognition, including the **Skoll Foundation Award for Social Innovation** and accolades as an **Audacious Project Grantee**. This speaks volumes about their innovative approach and the tangible impact they are making in communities.
+
+### Get Involved
+For those interested in supporting or joining Noora Health’s mission, the organization encourages participation, whether through careers, volunteering, or donations. Every contribution is directed towards enhancing their programs and extending their reach to more families in need.
+
+### Conclusion
+As Noora Health celebrates a decade of impact, they reflect on their journey while envisioning a future where families are fully integrated into the healthcare process. They continue to challenge the current healthcare norms, advocating for a system where every family is empowered to provide care for their loved ones effectively. With your support, they aim to expand their programs and drive change in healthcare accessibility and effectiveness, one family at a time. 
+
+For more information, visit their website at [Noora Health](http://noorahealth.org).",,,Training patients and their families with health skills,https://www.ycombinator.com/companies/noora-health,"Bengaluru, India",https://bookface-images.s3.us-west-2.amazonaws.com/logos/5b324e6d97b93f981bdb1a187ba97236397c73f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191600Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0fc0a50f342285a6d73bc3ad2ba7a75cb5b453f4ddaa2766aced8159ecc980ef,data/logos\Noora_Health_logo.png,Noora Health,"['https://www.linkedin.com/company/noora-health/', 'https://twitter.com/NooraHealth', 'https://www.facebook.com/noorahealth/', 'https://www.crunchbase.com/organization/noora-health', 'https://github.com/NooraHealth']",True,industry:consumer-health-services,150.0,http://noorahealth.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"One Degree is a technology driven nonprofit organization that helps individuals and families access the resources they need to improve their lives and achieve social and economic mobility. 
+
+One Degree's mission is to empower people to create a path out of poverty for themselves and for their communities. Our core product is a web and mobile platform makes it easy for low-income families to find, manage, and review nonprofit and government services. 
+
+Our platform has become the go-to tool for help-seekers â and the people who support them, such as case managers and social workers â throughout the San Francisco Bay Area and Los Angeles County in California, and in Gainesville, Florida.
+
+We currently operate three major products: the One Degree website and Android and iOS apps. Thousands of people in the Bay Area and Los Angeles rely on One Degreeâs website and apps to access health care, food banks, employment services, and much more. We also support communities around the country to start their own One Degree chapters.",2012.0,"[{'name': 'Rey Faustino, Founder/CEO', 'description': 'Rey Faustino, founder and CEO of One Degree, is committed to ensuring that everyone has access to the vital, life-saving resources they need to achieve social and economic mobility. Rey launched One Degree to ensure that all families have access to services they need to overcome poverty. Rey began his career as a teacher and later was the site director at BUILD, a college access nonprofit organization that propels low-income minority youth to attain a college education.', 'linkedin': 'https://www.linkedin.com/in/reyfaustino/'}]","### One Degree: Bridging Resources for Economic Mobility
+
+**Overview**
+
+Founded in 2012 and backed by Y Combinator Batch W14, One Degree is a nonprofit organization based in San Francisco. With a team of 14 dedicated individuals, One Degree strives to ensure that low-income families can easily access essential resources that pave the way for improved social and economic mobility.
+
+**Mission**
+
+The heart of One Degree's mission is to empower individuals and families in their fight against poverty. They do this by providing a technology-driven platform that connects users to a vast array of nonprofit and government services designed to support personal growth and uplift communities. 
+
+**What They Do**
+
+One Degree operates a web and mobile platform that serves as a critical tool for help-seekers and those who assist them, such as case managers and social workers. The platform, accessible across the San Francisco Bay Area, Los Angeles County, and Gainesville, Florida, features over 26,000 free resources, including healthcare access, food banks, childcare services, and employment assistance. Users can search for resources by area or category for easy navigation.
+
+Here are some resources available through their platform:
+
+- **Health Services**
+- **Food Assistance**
+- **Housing Solutions**
+- **Educational Resources**
+- **Employment Services**
+
+For those in need, One Degree also offers a unique feature: **text-based resource searches**, allowing users to find help simply by sending a keyword to **844-833-1334**.
+
+**Community Impact**
+
+One Degree isn't just a resource directory; it is a community-building platform that enables users to share resources with family and friends. It has become the go-to solution for many seeking assistance as they work to improve their circumstances. By supporting communities nationwide to launch their own chapters, One Degree extends its reach and impact beyond California.
+
+**Conclusion**
+
+In a world where navigating social services can feel overwhelming, One Degree demystifies the process. They’ve built a user-friendly solution that is not only free but also constantly updated, ensuring that people receive accurate information when they need it most. If you’re looking for resources or want to make a difference, check out [One Degree's website](http://1degree.org) and join their mission to uplift communities, one resource at a time.",,,One Degree is a nonprofit organization that makes it easy forâ¦,https://www.ycombinator.com/companies/one-degree,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/c1192873247a9cce3da3566e7a9430e97ec1a0de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191610Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d33caebdecbe2d169d12d4e8947ada335bc9a2e5fd524c44e58bb09ccf5989d3,data/logos\One_Degree_logo.png,One Degree,"['http://linkedin.com/company/one-degree-inc-', 'https://twitter.com/1Deg', 'https://www.facebook.com/1degree.org/', 'https://www.crunchbase.com/organization/1degree', 'https://github.com/1deg']",True,industry:nonprofit; location:san-francisco-bay-area,14.0,http://1degree.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"A library of community curated teaching and learning materials, free to the entire world. Come collaborate; we can teach better together.
+
+OpenCurriculum, Inc. is a California based technology nonprofit organization with a mission to bring openness and innovation to K12 education around the world",2011.0,[],"**OpenCurriculum: Revolutionizing K-12 Education**
+
+OpenCurriculum is a California-based nonprofit that aims to innovate and democratize K-12 education. Founded in 2011 and a proud member of Y Combinator's Batch W14, it has its roots in community-curated teaching resources meant to be freely accessible worldwide. The mission? Helping teachers and school administrators create engaging, effective education experiences. Their slogan encapsulates this ethos—“Come collaborate; we can teach better together.” 
+
+### What They Offer
+
+OpenCurriculum serves as a comprehensive curriculum planning tool that provides a vast library of high-quality, ready-to-use ideas for lesson and unit planning. It’s like having a collaborative workspace tailored for educators, where they can pull together diverse resources effortlessly. Imagine a space that doesn’t just template-ize your creativity but enhances it! 
+
+With an intuitive editor, educators can quickly gather assessments, links, multimedia, and more, into coherent lesson plans. They also facilitate collaboration among colleagues, allowing teachers to share, edit, and track plans with Google Docs-style permissions, ensuring that everyone stays aligned and engaged.
+
+### Key Features
+
+1. **Engaging Content**: Discover a wealth of lessons, assessments, and instructional strategies crafted by experts. The platform curates the best ideas to save teachers hours of research.
+
+2. **Visual Planning Tools**: Plan your curriculum with easy-to-navigate views—whether you prefer a weekly planner or a calendar format. Track your progress and visual layout at a glance.
+
+3. **Standard Alignment**: Align your curriculum with national or state standards seamlessly using an easy-to-navigate standards picker. The platform is designed to keep your educational goals coherent and connected.
+
+4. **Professional Development**: OpenCurriculum isn’t just a tool; it's a resource for continuous professional growth. With free training materials and instructional videos, it equips educators with practical, relevant pedagogical strategies.
+
+5. **Unmatched Accessibility**: The core features of OpenCurriculum are free for individual teachers and small school departments. They also have provisions to serve schools in crisis—making all paid features available to those who need it most, at no cost.
+
+### Why It Matters
+
+Education needs transformation, and OpenCurriculum is committed to addressing the gaps in traditional educational tools. By making high-quality educational resources accessible and easy to use, they empower educators to elevate student outcomes. And in a world where educational equity is often a dream rather than a reality, OpenCurriculum stands as a beacon of hope, bringing together innovation, collaboration, and passion for teaching to the fore.
+
+If you’re part of the educational landscape in K-12, whether as a teacher or administrator, exploring OpenCurriculum is well worth your time. They aspire to share the best educational ideas with every teacher globally, and they’re well on their way to making that aspiration a reality.
+
+For more information, visit their website at [OpenCurriculum.org](https://opencurriculum.org).",,,Helping K-12 teachers and school administrators build awesomeâ¦,https://www.ycombinator.com/companies/opencurriculum,Mountain View,https://bookface-images.s3.us-west-2.amazonaws.com/logos/7faa80f23079b258526484f8a04028c8f1e7b31a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191611Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5f2a9b7d56ece9d8e136543d53e1455ea7e19629172d6da384cf9ad368fd1325,data/logos\OpenCurriculum_logo.png,OpenCurriculum,['https://www.crunchbase.com/organization/opencurriculum'],True,industry:artificial-intelligence; industry:education; location:san-francisco-bay-area,,https://opencurriculum.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"PiinPoint is changing the way businesses identify the best location for expansion. Our modern day SAAS solution enables businesses to use powerful tools to search and validate locations throughout North America. We centralize a variety of datasets such as traffic, demographics, and available commercial real estate to ensure businesses can make a fast and reliable decision about where to expand.",2013.0,"[{'name': 'Jim Robeson, Founder', 'description': 'Jim Robeson is the Co-founder and CEO of PiinPoint, a location analytics solution that helps retailers identify and predict the financial performance of future store locations. Since its launch in 2014, more than 250,000 locations have been analyzed using PiinPoint’s services.', 'linkedin': None}, {'name': 'Adam Saunders, Founder/CTO', 'description': None, 'linkedin': 'https://www.linkedin.com/in/adamrsaunders/'}]","**PiinPoint: Your Location Intelligence Partner**
+
+Founded in 2013 and hailing from Kitchener, Canada, PiinPoint is revolutionizing how businesses identify optimal locations for growth. A proud member of Y Combinator's Batch W14, this SaaS company seamlessly integrates various datasets—including traffic patterns, demographics, and available commercial real estate—into a robust platform designed for quick, data-driven decision-making.
+
+### What They Do
+PiinPoint helps businesses pinpoint the best sites for expansion across North America. Their sophisticated tools provide businesses with insights needed to evaluate potential locations effectively. This means you can forget about the guesswork and focus on what really matters: making informed decisions backed by data. 
+
+Their range of offerings includes predictive analytics, customer insights, site reports, and even network planning, all tailored to optimize your real estate strategy. They tag themselves with keywords like 'SaaS,' 'real-estate,' and 'analytics,' which neatly encapsulate their core competencies.
+
+### The Team
+With a dedicated team of about 20 employees, PiinPoint operates with tailored expertise, ensuring their clients receive exceptional service and support. The company's leadership understands the intricacies of location intelligence and offers deep insights gleaned from real-world applications.
+
+### Testimonials & Impact
+Customers rave about PiinPoint's user-friendliness and the powerful impact it has on their site selection processes. For example, Jessica McCabe, a Retail Analyst at Cushman & Wakefield, emphasizes that PiinPoint “has become an integral part” of her role, demonstrating its value in the industry.
+
+### The Bottom Line
+Since its inception, PiinPoint has positioned itself as a must-have tool for any business looking to expand intelligently. By effectively using data and predictive modeling, they empower companies to make informed, strategic decisions about their growth. If you're interested in leveraging this kind of location intelligence to boost your expansion efforts, check out their offerings at [PiinPoint's website](https://piinpoint.com).
+
+So, whether you're a retail store looking for your next bustling street corner, or a franchisor mapping out your national expansion strategy, PiinPoint is the partner you didn’t know you needed. Get ready to grow with confidence, optimize your locations, and make informed decisions every step of the way.",,,PiinPoint helps businesses find the best locations for growth,https://www.ycombinator.com/companies/piinpoint,"Kitchener, Canada",https://bookface-images.s3.us-west-2.amazonaws.com/logos/20183355c49157eeca5d5b027cff5f2711005cf5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191639Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4149c460f73abba9ea6c8c1118f6bcaeec28442e19c2a7d906c62afe8d9c465a,data/logos\PiinPoint_logo.png,PiinPoint,"['https://www.crunchbase.com/organization/piinpoint', 'https://github.com/piinpoint']",True,industry:saas; industry:real-estate; industry:analytics,20.0,https://piinpoint.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Povio is helping founders turn visions into digital realities. 
+
+With over **1,000 successful projects** under our belt and a robust team of over **200+ skilled professionals**, we are the powerhouse of innovation and design. We've partnered up with over **60 YC founders**, so we get the unique challenges you face and what it takes to build something great. 
+
+A proud YC Winter 2014 alum, Povio has a legacy of startup success. Our portfolio spans diverse industries, offering bespoke solutions to giants like **Volkswagen**, rising stars like **Flexport**, and notable figures including **Serena Williams** and **Arnold Schwarzenegger.**
+
+**Why choose Povio for an extra hand with your project?** Our **400+ happy customers** and a **90% referral rate** speak volumes about our commitment to excellence. We make the software development and product design processes a seamless and delightful experience, with every project backed by top-tier managers and quality assurance analysts to ensure smooth and efficient delivery.
+
+Whether you're scaling up, launching new products, or optimizing current systems, povio.com is dedicated to propelling your growth.",2014.0,"[{'name': 'Matevž Petek, Founder/CEO', 'description': 'Matevz Petek is the founder of Povio, a San Francisco based software development agency, and a Y Combinator Winter 2014 graduate who has helped over 1000 companies by building digital products with positive impact. Before entrepreneurship, Matevz was a professional snowboarder and a vice world champion.', 'linkedin': 'https://www.linkedin.com/in/matevzpetek'}]","### Povio: Transforming Visions into Digital Realities
+
+**Overview**  
+Founded in 2014 and based in San Francisco, Povio has carved out a niche as a leading partner for startups and enterprises looking to bring their digital products to life. As a Y Combinator alumnus from the Winter 2014 batch, Povio's mission centers around engineering and design that fuels startup success by helping founders turn their visions into tangible realities.
+
+**Expertise and Reach**  
+Povio boasts a remarkable portfolio with over **1,000 successful projects** completed, backed by a robust team of **250+ skilled professionals**. The company has established strategic partnerships with more than **60 Y Combinator founders**, showcasing its deep understanding of the unique challenges that startups face. They've worked with industry giants like **Volkswagen** as well as influential figures such as **Serena Williams** and **Arnold Schwarzenegger**. 
+
+**Services and Solutions**  
+Povio offers a comprehensive range of services, specializing in:
+
+- **Product Research & Strategy**: Defining requirements, road mapping, user research, and product strategy.
+- **Design**: Creating user experiences and interfaces that resonate with users.
+- **Software Development**: Full-stack web and mobile engineering, quality assurance, and DevOps.
+- **Project Management**: Ensuring agile delivery and strategic resource coordination.
+
+With a 90% referral rate backed by **400+ happy customers**, Povio's approach to software development and product design is recognized for its seamless process and excellence in delivery.
+
+**Customer-Centric Model**  
+What sets Povio apart is its flexible service model. They allow clients to tailor partnerships according to project needs, scaling the team as goals evolve without the overhead of hiring and onboarding. Whether it’s launching new products, optimizing existing systems, or scaling operations, Povio delivers tailored solutions that meet the dynamic needs of their clients.
+
+**Commitment to Innovation**  
+Povio isn’t just about getting projects done; they aim to empower the world’s most innovative teams. Their collaborations have significantly impacted millions of lives globally, contributing to billions in customer revenue. They are equipped to handle cutting-edge technologies, including AI, healthcare solutions, blockchain, and mobile app development.
+
+In essence, if you've got a vision, Povio has the expertise and experience to help you build it—turning lofty ideas into successful digital products since 2014. 
+
+**Your Next Step**  
+Curious about how Povio can assist you in your next venture? Head to [povio.com](http://povio.com) to learn more or to initiate a conversation about how their team can turn your ideas into reality.",,,Engineering and Design that Fuels Startup Success,https://www.ycombinator.com/companies/povio,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/88800556da3a23f78d6a5838d421b7d0f2688d10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191651Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9e7ad455e265a3607a5e174dcd48dfb6f276cee2072dd3894a3d9625cb00ae09,data/logos\Povio_logo.png,Povio,"['https://www.linkedin.com/company/povio', 'https://twitter.com/Povio', 'https://www.facebook.com/povio/', 'https://www.crunchbase.com/organization/povio', 'https://github.com/povio']",True,industry:marketplace; industry:b2b; location:san-francisco-bay-area,250.0,http://povio.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Pushbullet connects your devices, making it easy and automatic to share almost anything between them.
+
+Our mission is to bridge the gap between your phone, tablet, and computer, enabling them to work better together.
+
+Why is this important? Simple: in the past few years, smartphones and tablets have taken over people's digital lives. Sharing data between them and with computers, however, can be a real pain. We make it easy and automatic.",2013.0,[],"**Pushbullet: Bridging Your Digital Devices**
+
+Founded in 2013 and a proud member of Y Combinator's W14 batch, Pushbullet is based in San Francisco and operates with a compact team of just three employees. Their mission is straightforward yet vital: ""Push things to your other things."" In simple terms, they aim to make your devices—be it your phone, tablet, or computer—work seamlessly together.
+
+### The Problem
+In recent years, we've increasingly relied on smartphones and tablets for our digital lives. But sharing information between these devices and our computers? That's the catch. Often, it feels like an unnecessary hassle.
+
+### The Solution
+Enter Pushbullet. This nifty app simplifies sharing and connects your devices, making them feel like one cohesive unit. Here’s what you can do with Pushbullet:
+
+- **Send Text Messages**: For Android users, typing on a computer keyboard is way quicker than pecking on a phone. Pushbullet lets you send and receive texts right on your computer.
+  
+- **Receive Notifications**: Stay updated without picking up your phone. Pushbullet mirrors notifications—be it calls, texts, or app alerts—on your desktop.
+  
+- **Share Links and Files**: No more emailing yourself links. You can instantly send links and files between your devices. Files download automatically, with one-click access straight from notifications.
+
+- **Chat with Friends**: An integrated chat feature makes communication easier. All your devices are on the same page when you're using Pushbullet.
+
+- **Follow Channels**: Stay in-the-know by subscribing to notifications about topics you care about—like new xkcd posts, free EA games, or Google acquisitions.
+
+### Why It Matters
+The core of Pushbullet’s value proposition lies in its ability to simplify an inherently annoying task: sharing data. In a world where multitasking across devices is the norm, tools like Pushbullet become indispensable.
+
+### Conclusion
+Pushbullet is a small yet mighty player in the tech space, providing valuable solutions to everyday digital challenges. With their focus on device integration, they help users maximize productivity and maintain connectivity in a fluid digital environment.
+
+For more information, check out their [website](https://www.pushbullet.com) and discover how they can help you streamline your device interactions.",,,Push things to your other things.,https://www.ycombinator.com/companies/pushbullet,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/37dfc246f7adfec18dfb4e87bf41b61a66528198.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191659Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=06207bdd7b39ddfcfe70e27c0415ceb952a8f36808518b682f2d8f0be40822f4,data/logos\Pushbullet_logo.png,Pushbullet,"['https://twitter.com/pushbullet', 'https://www.crunchbase.com/organization/pushbullet']",True,industry:notifications; location:san-francisco-bay-area,3.0,https://www.pushbullet.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Shoobs offers event organisers with a convenient and powerful platform to sell tickets to their events. A couple of years ago we got thinking that selling tickets should be QUICK & EASY!
+So, we decided to create Shoobs to help event organisers sell out their events efficiently!
+Shoobs is the leading destination to discover and book great urban culture events in the UK,
+such as Hip Hop concerts and RnB club nights.",2013.0,[],"**Shoobs** is a company founded in 2013 that serves as a go-to platform for discovering and booking tickets to entertainment events in the UK, particularly those centered around urban culture — think Hip Hop concerts, RnB club nights, and festivals. Born out of the realization that ticket sales should be “Quick and Easy” for event organizers, Shoobs has effectively streamlined the ticketing process to ensure that events sell out efficiently.
+
+Located in London and part of Y Combinator’s Batch W14, Shoobs is a small yet dynamic team of five. Their mission is clear: they aim to help you find and secure tickets for amazing entertainment experiences effortlessly. Whether you're hunting for the latest Hip Hop concert or an eclectic mix at a local festival, Shoobs has you covered.
+
+As a marketplace for urban culture events, Shoobs stands out in its niche, making it simple for users to explore categories like clubbing, comedy, live music, and more. They are not just about selling tickets; they also embrace community and culture, connecting people through exciting experiences. 
+
+So, if you're in the market for vibrant nightlife or live performances, head to [Shoobs.com](http://shoobs.com) to check out what’s happening near you — this platform makes it easier to enjoy the culture and music you love.",,,We help you find and book tickets to great entertainment events thatâ¦,https://www.ycombinator.com/companies/shoobs,"London, United Kingdom",https://bookface-images.s3.us-west-2.amazonaws.com/logos/9cc2014c2fe94b554ff6e08db924d5b85c136e18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191922Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=6c2f7ab6831a08dd4089414152fa783dd3b8d6f7a252acd525e63b36676def02,data/logos\Shoobs_logo.png,Shoobs,"['https://twitter.com/Shoobsonline', 'https://www.facebook.com/Shoobsonline/', 'https://www.crunchbase.com/organization/shoobs']",True,industry:marketplace,5.0,http://shoobs.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"We're building digital infrastructure and workflow tools to connect the many parties involved in real estate transactions. The result is a more digital, online, and automated process for everyone involved.",2014.0,"[{'name': 'Aaron King, Founder/CEO', 'description': ""Founder and Executive Chairman of Snapdocs. Happy to try to be helpful with my experience is in real estate, mortgage, networks, and building product for complex multiparty workflows. Hit me up if you're into outdoor sports, esp anything involving the ocean."", 'linkedin': 'https://www.linkedin.com/in/aaronwking'}]","### Snapdocs Overview
+
+**Company Name:** Snapdocs  
+**Founded:** 2014  
+**Location:** San Francisco, CA  
+**Team Size:** 285 employees  
+**Y Combinator Batch:** W14  
+**Website:** [snapdocs.com](http://snapdocs.com)  
+
+**Mission:** Snapdocs is on a mission to revolutionize the mortgage closing process through digital solutions. By building a more streamlined digital infrastructure, Snapdocs connects various stakeholders in real estate transactions, optimizing the experience for everyone involved—from lenders to notaries.
+
+### How Snapdocs Works
+
+Initially conceived to enhance real estate transactions, Snapdocs has developed a suite of **SaaS products** tailored for the mortgage industry. Their offerings include:
+
+- **eClosing:** Provides automated and error-free digital closings.
+- **eVault:** A secure platform for storing, managing, and transferring electronic notes (eNotes).
+- **Notary Connect:** This tool coordinates signing appointments and streamlines settlement workflows.
+
+With a focus on **B2B** interactions, Snapdocs serves various segments within the housing and enterprise markets, including lenders, title companies, signing services, businesses, and notaries.
+
+### Key Features and Benefits
+
+- **Efficiency:** Snapdocs significantly accelerates the closing process, allowing borrowers to complete closings in under 15 minutes.
+- **Cost Savings:** The platform can save up to $500 per loan and reduces closing errors by 80%.
+- **Integration Capabilities:** Snapdocs seamlessly integrates with multiple systems—such as Loan Origination Systems (LOS) and Point of Sale (POS)—to enhance operational efficiencies.
+
+### Impact and Reach
+
+Snapdocs boasts support for about **25% of all U.S. mortgage transactions**. Their technology has transformed how lenders and title companies interact, focusing on reducing manual tasks while increasing security and error-free transactions. 
+
+### Notable Partnerships
+
+Snapdocs has forged strategic collaborations with recognized entities in the industry, including Fannie Mae and Freddie Mac, to reinforce its impact and reliability in the market.
+
+### Testimonials
+
+Feedback from clients underscores Snapdocs' value proposition:
+- “Snapdocs made the process of adopting and scaling eNotes so easy and flawless.” — Kristen Manriquez, VP of Capital Markets.
+- “The entire Snapdocs team is truly dedicated to helping us get the most out of Notary Connect.” — Christine Rokusek, VP of Closing Operations.
+
+### Conclusion
+
+In summary, Snapdocs is leading the charge toward digital mortgage closings, combining efficiency, security, and improved experiences for all parties involved. If you're in the mortgage industry, start exploring how Snapdocs can streamline your workflows and reduce costs. Want to see it in action? [Request a demo today!](http://snapdocs.com/)",,,digital mortgage closing,https://www.ycombinator.com/companies/snapdocs,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/94f773f659afddf341c0b797e591c737f095354f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T191934Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ffeb7c8b17f2eda2469b2885ecab422036bb9f1ff1443d45b6959173945f88af,data/logos\Snapdocs_logo.png,Snapdocs,"['https://www.linkedin.com/company/snapdocs', 'https://twitter.com/snapdocs', 'https://www.facebook.com/snapdocs/', 'https://www.crunchbase.com/organization/snapdocs', 'https://github.com/snapdocs']",True,industry:saas; industry:b2b; industry:housing; industry:enterprise; industry:networks; location:san-francisco-bay-area,285.0,http://snapdocs.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"TrueVault builds software tools that help businesses comply with consumer data privacy laws. We believe if businesses have access to products that make getting and staying compliant simple, straightforward, and fully automated, respecting consumers' data privacy becomes the sensible default. And we all benefit from that.",2013.0,"[{'name': 'Jason Wang, Founder', 'description': 'Founder of @truevault • Employee #1 at @scorebig • Worked at @razorfish • Studied at @uc Irvine.', 'linkedin': 'https://www.linkedin.com/in/jasonwang'}]","### TrueVault: Simplifying Privacy Compliance for SMBs
+
+**Mission**  
+TrueVault is on a mission to provide robust privacy software tailored specifically for small and medium-sized businesses (SMBs). Their core belief is straightforward: if businesses have access to efficient compliance tools, protecting consumer data becomes the easy and obvious choice.
+
+**Overview**  
+Founded in 2013 and emerging from Y Combinator’s W14 batch, TrueVault operates from the heart of San Francisco. The platform aims to streamline compliance with complex consumer data privacy laws across various jurisdictions, making it accessible even for companies without extensive legal resources.
+
+**What They Do**  
+TrueVault's comprehensive privacy platform does the heavy lifting for companies grappling with compliance requirements. The software is designed to handle all aspects of privacy management:
+
+- **Easy Onboarding**: Businesses can get started quickly, often going live in just two days.
+- **Automated Compliance**: It continuously updates to reflect the latest privacy laws, so businesses don't have to worry about falling behind.
+- **Consumer Interaction**: Offers a dedicated privacy center for consumers to understand how their data is used and to exercise their rights.
+- **Request Management**: Streamlines the handling of consumers' privacy requests through an intuitive dashboard.
+- **Vendor Oversight**: Monitors how third-party vendors manage customer data, a growing concern in the privacy landscape.
+
+**Key Features**  
+The platform is built by experienced attorneys, offering features that include:
+- Compliance automation tools
+- Ready-to-use privacy notices tailored to various business models
+- Integration capabilities with popular platforms like Shopify and Google Analytics
+- An industry-leading compliance guarantee where TrueVault will cover fines up to $250,000 if customers become non-compliant while using their service.
+
+**Current Climate**  
+With 19 states and counting enacting new privacy laws, the demand for solutions like TrueVault has skyrocketed. Non-compliance can lead to significant fines, making it less of a risk and more of a necessity for businesses to adopt such tools. TrueVault positions itself as a single source of truth for businesses to manage their privacy needs efficiently.
+
+**User Experience**  
+Clients rave about TrueVault’s approachability and effectiveness. Businesses can confidently manage consumer requests, with testimonials emphasizing ease of use that rivals popular tax software.
+
+**Conclusion**  
+TrueVault is more than just a privacy tool; it’s a critical partner for SMBs navigating the complicated waters of data compliance. For any company looking to safeguard consumer information while staying ahead of evolving regulations, TrueVault could very well be the answer.
+
+For more information, visit [TrueVault](https://www.truevault.com).",,,We make Privacy Software for SMBs.,https://www.ycombinator.com/companies/truevault,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/31cbdf05988d09b2d87b705067554ac9a2b9f101.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAKBB576US%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192030Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFRjVxB%2FHxIJHUHkMazoRi02jYmaJVJGr3K7C9j9jiflAiEA6iszI4%2Fpn8hDzk7aMP6LlnqynbPgCG20CpdZqslTFdsq7gMI3P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDNVC6v4lNMvTlUOjTyrCA7R4NjcD6pWk9Gjux5NdrMhwU67pNo%2F0JVDzkHcTjBsajnWXpXoyD3m%2FssX0rwYmnUDJB9VTgD%2FW2M8cWxeD93WFxLjs25juzzGj1%2BC1Ky9E0oNPwn5jGw%2BjokWylkxcouU18mjUtP8juH4uF9Xfmm%2FMAgvOPsNSAaYBQ%2BdA5Vwom66MCzynAPEJs6Nqxd5FqtgiiWFRhT5L9g%2FvfLTKqpdIg0XPF6s95lLCtwWDHST72Bn9JVH2zZmqjTgO2sao7Rg4M%2BPIRazg8JhbPoWk6xsB2yfG1f%2Bs8AFVxihyUnQj6TUnhrhezs7WYsaTfaaAoTIzhEsLwJDqBQDSptmSlUj%2BQ3KWwrXpJIm0b1uOmaylnrEpn5obECdRc%2FzdEfNt6DNEE5cbUhQo8Gjfd6MWfyV7JHtX7DwsLMssQPKNZ6qWJq2gP1fVHFkz5K0F%2F73p54AKB5gCkyOeRPJHmAzYMdfZpMF%2B8hE4eZU6k7m1EqPLEW2F9HVvcqPFp8T%2BZgbbDLBVWICSdX%2FfJ%2BniwyC72aHLaqjCxHLvJ6WyAawaepaDD9csEvz4DYD9lpHx9hJXqrFDyrT1vAaaBwuoXgulZ6gNmjCmiuO9BjqlATnnhPFnQUT7QmhXwrAFbGCqdgkRFIVCdDrNmasZJtz86frmIpB%2BlwZjavL0FMq46mN9RKFTuRNdMnOtOh1adMI%2BkC%2F%2Bs3m8pwR56JxErG%2B8nIBe7efeu5WiUZbGCsp85oXBCGY%2FoP1uWrJo843L0LVdmjtyXaDurxXSgzfeZo2RDONME7LNkPzuGzA19XefIc9OvA1QFcZr3VIdZe%2BLywfFgDpgwA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=67e8a0698aef5eff0932294bd68c287ca2697278dc6e9772544fd52ca334927a,data/logos\TrueVault_logo.png,TrueVault,"['https://www.linkedin.com/company/truevault/', 'https://twitter.com/truevault', 'https://www.crunchbase.com/organization/truevault', 'https://github.com/truevault']",True,industry:privacy; location:san-francisco-bay-area,,https://www.truevault.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Unbabel is an AI Centric Language Operations Platform that eliminates language barriers so that businesses can grow across markets. Our platform enables anyone to easily create flexible translation pipelines for any language or type of content in a scalable way. The pipelines combine best in class AI components, such as our Machine Translation and Quality Estimation, with different levels of human-in-the-loop capabilities, such as human translation and human annotations. The result is an easy to use, super scalable platform for Language Operations that can easily go from real time translation using adapted machine translation to high end human transcreation. 
+
+Based in San Francisco, Unbabel works with hundreds of businesses such as Lego, Logitech, Microsoft, Warner Bros, Virgin Pulse, Booking.com or Under Armour, to communicate effortlessly with customers around the world, no matter what language they speak.",2013.0,"[{'name': 'Vasco Pedro, Founder/CEO', 'description': 'Vasco Pedro is a co-founder and chief executive officer of Unbabel, a company that removes language barriers by blending artificial intelligence with real-time, human translations. A serial entrepreneur, Vasco has led Unbabel since 2013, taking it through Y Combinator and raising a total of $100 million in funding.', 'linkedin': 'https://www.linkedin.com/in/vascopedro/'}, {'name': 'João Graça, Founder/CTO', 'description': None, 'linkedin': None}, {'name': 'Bruno Prezado Silva, Founder/Lead Designer', 'description': None, 'linkedin': 'https://www.linkedin.com/in/bruno-prezado-silva-b26a028/'}, {'name': 'Hugo Silva, Founder/Developer', 'description': None, 'linkedin': None}]","**Company Overview: Unbabel**
+
+Founded in 2013 and based in San Francisco, Unbabel stands out as an innovative player in the field of translations with its AI-powered Language Operations platform. Initially launched as a startup in Y Combinator’s Batch W14, Unbabel has consistently aimed to break down language barriers, empowering businesses to communicate seamlessly across global markets.
+
+**Mission and Vision**
+
+Unbabel's mission is straightforward yet ambitious: to eliminate language barriers and facilitate growth for businesses worldwide. Their AI-centric platform offers a flexible translation service that can scale to meet any business's content needs—from real-time translations using advanced machine learning to nuanced human transcreation.
+
+**How It Works**
+
+At the core of Unbabel’s offering is its unique translation pipeline. This system synergizes AI-powered machine translation enhancements, such as Quality Estimation, with human expertise, allowing for a mix of automated and human-in-the-loop translation processes. This dual approach enables companies to easily adjust their translation strategies based on the demands of different content types and target markets.
+
+**Target Audience and Clientele**
+
+Unbabel serves a diverse array of industries, including gaming, retail, technology, and travel. They have successfully partnered with notable brands like Lego, Microsoft, and Warner Bros, showcasing their capability to handle translation challenges for high-profile clients.
+
+**Team and Location**
+
+With a growing team of approximately 350 employees, the company is well-positioned in the competitive landscape of language services. The San Francisco Bay Area location not only anchors Unbabel in a rich ecosystem of tech innovation but also connects them with potential partners and customers across the globe.
+
+**Technology and Integrations**
+
+What sets Unbabel apart is its robust integration capabilities. The platform connects smoothly with popular business tools like Salesforce, Zendesk, and Intercom, ensuring that translation can be embedded directly into existing workflows without disrupting operations. This approach minimizes onboarding time and maximizes productivity.
+
+**Commitment to Quality and Security**
+
+Unbabel emphasizes the importance of translation quality, providing clients with insights into their performance through advanced quality estimation tools. Moreover, the company prioritizes data security, having established ISO 27001 certified protocols to safeguard customer information.
+
+**Final Thoughts**
+
+If you're looking for a partner to enhance your global communication efforts, Unbabel presents a compelling case. Their fusion of AI technology with human oversight creates a scalable, efficient, and cost-effective solution for any business eager to expand its reach without the friction of language barriers. For more information, you can visit their website at [unbabel.com](http://unbabel.com).",,,AI-powered Language Operations platform,https://www.ycombinator.com/companies/unbabel,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/8ecf84d64c18b3f64d0834ad6c63576932559283.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANZTIEPER%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192034Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFK7AaY6pLW7VXlabKqUnsti6Yla%2FSCoewpy2UpIVCaCAiA8ht7ARDxEtPYflXgJ6GN5bEZeebWfnDTKyeidmcTC1CruAwjc%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMCT%2BNNvy1oYZVQ2WfKsIDC8tFQP9udIDUz7fPe0Dzhi3kRbDHT6z1su5L4S2TNId9sdGLXlMH5QJEjIRQ0rRGFxtFwHq3Ei%2FFUMz8Ks%2BREJfMgSTVpukyJgwEShybEje0ZmE8QmQZfZHBoB3xkrE%2BBayG5FX4vDwLgpeUOm2x0Sme6SqEGp0U2HdP5J9we04xpSN6O3pOAmTuuCsb%2BQPYCH1mXWSVmvNh2pUbfVpEuA1sb0Wiptbpfnhy4N1sMbsvgcVHnJWsfFM7KpvOlLi74Nr4Vc0xdBaCVKFI%2F41dQ8B4Kzz9dYpoaJusn%2BzTCogghYP7kOh6JJVWY35TuATGcnfRj43am6HEi642klk52iMuE3ArHBew3k4kXFjbnK43UVyRzTS05n6rrFGghTnrTREChlc9QCNp9k3yv2JDnt3mmhgvF7SgDPlQjN30occWCFX7TKX0SeOYyEtGYGTfIgd7vhxYn9lJ4oKAdWFyyag09TH2uQboF8DUZi4%2Fg8KcUmexxB%2F6WrTdTaOmKfNgD1HgHc3rUIip1aKJOxhl%2FK2vVvuv24UBvRE8k9cA9IRmUWpABHCRsWHi18byrwhB8loeVL%2B%2FJ0OsbjBfCFm%2Bw6q1MLKL470GOqYBVYJ7J0xnXg6%2FzqB9gfoZM97xPrmQD13S%2F2Fk8gtkTcxCMI3BWSeNqsOoiP1%2Fd0GbOsuEccJaBnW%2B4rCnpLm49esEX6GFb5TSj2RJpw0MiIDCBDehJEL0xBmL41NHVEKuK%2Fj6JCSGHAzPKoaj%2FQs%2BQ0%2BmDRURurQUk6EIMYr867Y%2BX2Rq%2FtjXqF5VR7HKdT0IVHTM96uCnswQE%2FjhiCPclPGbctMWJQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4683edd102f87ba4117d68b3a6ac9a0ac02d68e634f55b1a1d815929bde16b59,data/logos\Unbabel_logo.png,Unbabel,"['https://www.linkedin.com/company/unbabel/', 'https://twitter.com/unbabel', 'https://www.facebook.com/unbabel', 'https://www.crunchbase.com/organization/unbabel', 'https://github.com/Unbabel']",True,location:san-francisco-bay-area,350.0,http://unbabel.com
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Zidisha is the world's first direct peer-to-peer lending service to bridge the international wealth divide, allowing individuals worldwide to lend to and communicate with borrowers in developing countries without local intermediaries.  The direct connection creates better transparency, more profit for the entrepreneurs and lenders, and greater wealth creation for the world's poorest communities.  We've been featured in numerous press and media for our groundbreaking work in using internet and mobile phone technologies to connect entrepreneurs in some of the world's most isolated and impoverished places with the international peer-to-peer lending market.",2009.0,[],"Zidisha is a pioneering fintech company focused on bridging the wealth divide between individuals across the globe through direct peer-to-peer lending. Founded in 2009 and part of Y Combinator's W14 batch, Zidisha operates from Sterling, VA, with a small team of just one employee. 
+
+The mission of Zidisha is straightforward yet impactful: it allows people worldwide to lend directly to entrepreneurs in developing countries. This innovative approach eliminates the need for local intermediaries, resulting in more transparent transactions, better profit margins for both borrowers and lenders, and ultimately fostering wealth creation in some of the world’s most impoverished communities.
+
+Zidisha has made headlines in various media outlets for effectively utilizing the internet and mobile technology to connect entrepreneurs from economically challenged areas to the international lending market. The platform has facilitated an impressive number of projects, with over 305,889 life-changing endeavors funded and a staggering total of approximately $20.89 million raised to date.
+
+With over 449,108 users (comprising both lenders and entrepreneurs), Zidisha promotes a unique model where lenders can contribute any amount to the entrepreneurs of their choice. Entrepreneurs not only receive capital to launch and expand their businesses but also share personal updates and success stories with their lenders, creating a sense of community and accountability.
+
+Zidisha is tagged under categories like fintech, marketplace, community, and crowdfunding, encapsulating its role in the modern financial landscape. The platform makes philanthropy direct and transparent, ensuring that funds raised for a project can be reinvested in new entrepreneurs once their original project is complete.
+
+If you're interested in making a positive impact in developing nations, Zidisha invites you to browse projects, contribute, and witness the tangible difference your support can make. Visit their website at [Zidisha.org](https://www.zidisha.org) to learn more and get involved.",,,Direct P2P lending across the international wealth divide.,https://www.ycombinator.com/companies/zidisha,"Sterling, VA",https://bookface-images.s3.us-west-2.amazonaws.com/logos/b8041315f9380a1e6f226d553d9e311323317fe2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=db675fc215e1e9089832bf19e7fb733c6e7376d37ef1ac5a1975473490be6f0a,data/logos\Zidisha_logo.png,Zidisha,"['https://twitter.com/ZidishaInc', 'https://www.facebook.com/ZidishaInc?sk=wall', 'https://www.crunchbase.com/organization/zidisha']",True,industry:fintech; industry:marketplace; industry:community; industry:crowdfunding,1.0,https://www.zidisha.org
+,,,,,,,,,,,,,,,,,,,,,Active,W14,,,"Our team has built listing creation, inventory management, repricing, and fulfillment software currently used by tens of thousands of the top Amazon and eBay sellers. We power the entire product catalog for dozens of US and international e-commerce sites. Our founders and lead engineers hail from MIT and have worked at top-tier Silicon Valley companies including Palantir, Stripe, Dropbox, Nest, and Optimizely.
+
+Thousands of small business owners around the world make a living using Zinc's software. As the backbone of these online stores, Zinc's software powers hundreds of millions of dollars in annual sales. We offer an unconventional work environment focused on results, not hours. Zinc is backed by Y Combinator and some of the best angel investors in Silicon Valley, but we are also profitable and independent.",2014.0,"[{'name': 'Doug Feigelson, Founder', 'description': 'CEO @ Mystro (mystrodriver.com)', 'linkedin': 'https://www.linkedin.com/in/doug-feigelson-95371825'}, {'name': 'John Wang', 'description': 'CTO / Co-founder at Assembled (www.assembled.com)', 'linkedin': 'https://www.linkedin.com/in/johnjianwang'}]","Zinc is carving out its niche as ""the secret backbone of e-commerce."" Founded in 2014 and part of Y Combinator's W14 batch, this San Francisco-based company develops powerful software for listing creation, inventory management, repricing, and fulfillment. Their innovative tools are crucial for tens of thousands of Amazon and eBay sellers, driving hundreds of millions in annual sales. Their journey is backed by a team with impressive credentials, including alumni from MIT and major players like Palantir, Stripe, and Dropbox.
+
+At its core, Zinc provides APIs that simplify retail operations for AI companies. By offering seamless integrations, high-quality data, and automation, they empower users to scale their businesses effortlessly. They cater to thousands of small business owners globally, creating an environment where results trump hours logged. With only ten employees, Zinc maintains a lean yet effective team, committed to innovation and profitability without sacrificing independence.
+
+Their product offerings are robust, including full-service ordering, real-time data accuracy, and developer-friendly APIs. Touted for reducing complexity and ensuring reliability, Zinc invites businesses to explore its solutions through demos and documentation.
+
+If you’re in the e-commerce space, Zinc might just be the partner you need to level up your operations. Check them out at [zinc.com](http://zinc.com) and see how they can power your online success!",,,The secret backbone of e-commerce.,https://www.ycombinator.com/companies/zinc,San Francisco,https://bookface-images.s3.us-west-2.amazonaws.com/logos/68842a83b693d1119d3c420344fdaed14b7b3577.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAEHIR6H6F%2F20250221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250221T192110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDt736ZW5EfzagAz1eKRSs%2FW4TfHu28RBSFaRNkZ9h47gIhANt6WXtwkgL07bQKDKYDGFxYKx7WOO9JX0BqaYrXnKNbKu4DCNz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDA2MjAxODExMDcyIgx8TqkMwTM2PLcRmr4qwgPGGtQBXv7gs7%2BXGteI1gQk%2FjkbIHwQ5hCKXJKVmVAPw3MeVLhZyp8Nf5%2FYigbwE%2BrFR7aZWKjrs7HxAE0JWit5dlINZLjZK%2BS%2FwMaCqoj%2BFDN0gw9iiAPu4Xn5c3b%2BuZe%2F5%2Flfk0EuxZAXVsZtShxXZy%2FERPQ0v%2FRZxSz5qUoaXpL1zj6VWdWVzoI7%2FPlB3bgJ2PpiF7DN%2BJeDsJPx%2FoKTo5ehP9pOeGbMNxoeegVJsCJ3zvzO3o4fcZYIf6c5iIJwM1Ot3Gg7Z3v9oLZjSRU%2FaRLL5j4n3II7DaroOCEVfPlWzTyZM7SNFZZAFSKM8vLKj1VdTr9s3How41zluf%2FOIp7sGNhG%2FjuYJoG%2FmkLFIlYP4wbGrLO69AWnenZyfi1UhAiV6N%2BlAqGnqvpOJh4vq8uNh2eRnXR%2BMVXdq9oVYkm7XFgprL5PDC4ULLyBWqA6kca4z7F4H56nkT%2FsDtT8ek2VOIRIv1Zgcz%2BeeVG7F7AHS4bdbR6eZ3ChY1iQhfPBErh4OiFQM7IqiUKw%2B1CTpvL68xcVN5gjiaDH0Jotw%2BUcW9dMSg9py8xH8qgyiWG5w3dDj9xaoA2G3NMYq6JOGKMwwIrjvQY6pAHDH54nhADhmb7YSEGxHkL3pqs%2B6aYOExStWbzLKzRb3lb2DAgGG8uU9COt8%2FqUEOtOcszTKp7yuCJwMVkfI7PDZ74h9uiRkRxjtH7%2BLlE1xrfd%2FrIq%2B%2BZr9hSFqZ9MUQ4yNHesyx2FYDbsIfCW9ntlrpmZUHCcrzpQDfufsAFcpe%2FudVT3tUqiF8WCN1Vd%2Bx%2FQ9d3i1HvBcJWV9AYAwM0W22VM%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=90503b7f0e3707b433f230cfd5597d0058548a4d0a8888cf751db44fabf31dde,data/logos\Zinc_logo.png,Zinc,[],True,industry:e-commerce; location:san-francisco-bay-area,10.0,http://zinc.com
